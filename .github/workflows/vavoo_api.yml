@@ -1,0 +1,75 @@
+name: Vavoo API Sync
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Her saat başı çalıştırır
+  workflow_dispatch: # Manuel çalıştırma butonu ekler
+
+jobs:
+  update_list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Gerekli Paketleri Kur
+        run: pip install cloudscraper urllib3
+
+      - name: Senin Kodunu Calistir
+        env:
+          MY_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+        run: |
+          python << END
+          import cloudscraper, json, base64, os, urllib3
+          
+          # 1. Kodun baslangici ve Scraper kurulumu
+          scraper = cloudscraper.create_scraper()
+          h = urllib3.PoolManager()
+          TOKEN = os.getenv('MY_TOKEN')
+          USER = "nookjoook56-web"
+          REPO = "Repo"
+          FILE = "playlist.m3u"
+
+          try:
+              # 2. Senin paylastigin veri cekme kismi
+              auth_data = {"veo": "1"}
+              auth_res = scraper.post("https://vavoo.to/api/box/ping2", data=auth_data).json()
+              signature = auth_res.get('signed')
+
+              channels_res = scraper.get("https://vavoo.to/channels").json()
+
+              m3u_listesi = ["#EXTM3U"]
+              for kanal in channels_res:
+                  ad = kanal.get("name")
+                  id_no = kanal.get("id")
+                  ulke = kanal.get("country", "Genel")
+                  link = f"https://vavoo.to/play/{id_no}/index.m3u8?n=1&sig={signature}"
+                  m3u_listesi.append(f'#EXTINF:-1 group-title="{ulke}", {ad}\n{link}')
+              
+              final_text = "\n".join(m3u_listesi)
+
+              # 3. Sonucu GitHub'a (playlist.m3u) kaydetme kismi
+              api_url = f"https://api.github.com/repos/{USER}/{REPO}/contents/{FILE}"
+              headers = {"Authorization": f"token {TOKEN}", "Accept": "application/vnd.github.v3+json"}
+              
+              # Eski SHA'yi al (dosyanin uzerine yazabilmek icin)
+              r_get = h.request('GET', api_url, headers=headers)
+              sha = json.loads(r_get.data.decode('utf-8')).get("sha") if r_get.status == 200 else None
+              
+              payload = {
+                  "message": "Vavoo API Auto Sync",
+                  "content": base64.b64encode(final_text.encode("utf-8")).decode("utf-8")
+              }
+              if sha: payload["sha"] = sha
+              
+              h.request('PUT', api_url, headers=headers, body=json.dumps(payload).encode("utf-8"))
+              print("Islem basariyla tamamlandi!")
+          except Exception as e:
+              print(f"Hata olustu: {e}")
+          END
+          
