@@ -2,27 +2,33 @@ import requests
 
 def main():
     api_url = "https://www2.vavoo.to/live2/index"
+    # Filtrelemek istediğimiz anahtar kelimeler
+    target_groups = ["Turkey", "TURKIYE", "TR", "BEIN", "SPORTS"]
+    
     try:
-        # Vavoo API'den verileri çekiyoruz
         response = requests.get(api_url, timeout=30)
         data = response.json()
         
         with open("playlist.m3u", "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
+            
             for item in data:
-                name = item.get('name', 'Kanal')
+                name = item.get('name', '').upper()
+                group = item.get('group', '').upper()
                 url = item.get('url')
-                group = item.get('group', 'Genel')
                 logo = item.get('logo', '')
                 
-                if url:
-                    # Televizo'nun tanıması için User-Agent'ı linkin sonuna ekliyoruz
-                    f.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n')
-                    f.write(f"{url}|User-Agent=VAVOO/2.6\n")
+                # Sadece Türkiye kanalları ve beIN/Sports içerenleri filtrele
+                if any(tag in group or tag in name for tag in target_groups):
+                    if url:
+                        f.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n')
+                        # Televizo için User-Agent zorunludur
+                        f.write(f"{url}|User-Agent=VAVOO/2.6\n")
         
-        print("Playlist Televizo için uygun formatta güncellendi.")
+        print("Filtreleme tamamlandı: Sadece TR ve beIN kanalları eklendi.")
+        
     except Exception as e:
-        print(f"Hata: {e}")
+        print(f"Hata oluştu: {e}")
 
 if __name__ == "__main__":
     main()
