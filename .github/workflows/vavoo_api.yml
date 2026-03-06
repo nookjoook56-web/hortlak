@@ -1,4 +1,4 @@
-name: Vavoo Force Update
+name: Vavoo Playlist Creator
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: pip install cloudscraper urllib3
 
-      - name: Run Clean Sync
+      - name: Run Force Update
         env:
           MY_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: |
@@ -29,7 +29,7 @@ jobs:
           
           TOKEN = os.getenv('MY_TOKEN')
           USER = "nookjoook56-web"
-          REPO = "hortlak"  # DEPO ADINI BURADA GÜNCELLEDİK
+          REPO = "hortlak"  # DEPO ADINI GÜNCELLEDİK
           FILE = "playlist.m3u"
 
           s = cloudscraper.create_scraper()
@@ -37,12 +37,12 @@ jobs:
           headers = {"Authorization": f"token {TOKEN}", "Accept": "application/vnd.github.v3+json"}
 
           try:
-              # 1. Vavoo API'den imzalı anahtar ve kanalları çek
+              # 1. Vavoo'dan imza (sig) ve kanal listesini çek
               auth = s.post("https://vavoo.to/api/box/ping2", data={"veo": "1"}).json()
               sig = auth.get('signed', '')
               channels = s.get("https://vavoo.to/channels", timeout=30).json()
               
-              # 2. M3U İçeriğini Oluştur (Sıfırdan temiz liste)
+              # 2. Temiz M3U içeriği oluştur
               out = ["#EXTM3U"]
               for ch in channels:
                   name, cid, grp = ch.get("name"), ch.get("id"), ch.get("country", "Genel")
@@ -51,19 +51,19 @@ jobs:
               
               final_content = "\n".join(out)
               
-              # 3. GitHub API ile Dosyayı Zorla Oluştur/Güncelle
+              # 3. Dosyayı GitHub'a zorla yaz
               api_url = f"https://api.github.com/repos/{USER}/{REPO}/contents/{FILE}"
               r_get = h.request('GET', api_url, headers=headers)
               sha = json.loads(r_get.data.decode('utf-8')).get("sha") if r_get.status == 200 else None
               
               payload = {
-                  "message": "Playlist created with sig",
+                  "message": "Playlist Force Created",
                   "content": base64.b64encode(final_content.encode("utf-8")).decode("utf-8")
               }
               if sha: payload["sha"] = sha
               
               r_put = h.request('PUT', api_url, headers=headers, body=json.dumps(payload).encode("utf-8"))
-              print(f"Status: {r_put.status}") 
+              print(f"Bitti! Status: {r_put.status}") 
           except Exception as e:
               print(f"Hata: {e}")
           END
