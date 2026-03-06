@@ -1,4 +1,4 @@
-name: Vavoo Final Sync
+name: Vavoo Force Sync
 
 on:
   schedule:
@@ -9,11 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v3
-      - name: Install dependencies
+      - name: Install
         run: pip install cloudscraper urllib3
-      - name: Run Clean Sync
+      - name: Run
         env:
           MY_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: |
@@ -23,26 +23,24 @@ jobs:
           h = urllib3.PoolManager()
           TOKEN = os.getenv('MY_TOKEN')
           USER = "nookjoook56-web"
-          REPO = "hortlak" # DEPO ADINI BURADA GÜNCELLEDİK
+          REPO = "hortlak" 
           FILE = "playlist.m3u"
           try:
-              # 1. Taze imza (sig) al
               auth = s.post("https://vavoo.to/api/box/ping2", data={"veo": "1"}).json()
               sig = auth.get('signed', '')
-              # 2. Vavoo API'den temiz liste çek ve sig ekle
               channels = s.get("https://vavoo.to/channels", timeout=30).json()
               out = ["#EXTM3U"]
               for ch in channels:
                   url = f"https://vavoo.to/play/{ch.get('id')}/index.m3u8?n=1&sig={sig}"
                   out.append(f'#EXTINF:-1 group-title="{ch.get("country")}",{ch.get("name")}\n{url}')
               final = "\n".join(out)
-              # 3. GitHub API ile tertemiz dosyayı zorla oluştur
               api = f"https://api.github.com/repos/{USER}/{REPO}/contents/{FILE}"
               r_g = h.request('GET', api, headers={"Authorization": f"token {TOKEN}"})
               sha = json.loads(r_g.data.decode('utf-8')).get("sha") if r_g.status == 200 else None
-              payload = {"message": "Reset and Sync with Sig", "content": base64.b64encode(final.encode("utf-8")).decode("utf-8")}
+              payload = {"message": "Playlist Olusturuldu", "content": base64.b64encode(final.encode("utf-8")).decode("utf-8")}
               if sha: payload["sha"] = sha
-              h.request('PUT', api, headers={"Authorization": f"token {TOKEN}"}, body=json.dumps(payload).encode("utf-8"))
+              res = h.request('PUT', api, headers={"Authorization": f"token {TOKEN}"}, body=json.dumps(payload).encode("utf-8"))
+              print(f"Durum: {res.status}")
           except Exception as e: print(f"Hata: {e}")
           END
           
