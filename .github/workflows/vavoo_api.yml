@@ -1,4 +1,4 @@
-name: Vavoo Playlist Creator
+name: Vavoo Final Fix
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: pip install cloudscraper urllib3
 
-      - name: Run Force Update
+      - name: Run Sync
         env:
           MY_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: |
@@ -29,7 +29,7 @@ jobs:
           
           TOKEN = os.getenv('MY_TOKEN')
           USER = "nookjoook56-web"
-          REPO = "hortlak"  # DEPO ADINI GÜNCELLEDİK
+          REPO = "hortlak" # Görüntüdeki yeni depo adın
           FILE = "playlist.m3u"
 
           s = cloudscraper.create_scraper()
@@ -37,33 +37,29 @@ jobs:
           headers = {"Authorization": f"token {TOKEN}", "Accept": "application/vnd.github.v3+json"}
 
           try:
-              # 1. Vavoo'dan imza (sig) ve kanal listesini çek
+              # 1. Taze imza (sig) al
               auth = s.post("https://vavoo.to/api/box/ping2", data={"veo": "1"}).json()
               sig = auth.get('signed', '')
-              channels = s.get("https://vavoo.to/channels", timeout=30).json()
               
-              # 2. Temiz M3U içeriği oluştur
+              # 2. Kanalları çek ve imzala
+              channels = s.get("https://vavoo.to/channels", timeout=30).json()
               out = ["#EXTM3U"]
               for ch in channels:
-                  name, cid, grp = ch.get("name"), ch.get("id"), ch.get("country", "Genel")
-                  url = f"https://vavoo.to/play/{cid}/index.m3u8?n=1&sig={sig}"
-                  out.append(f'#EXTINF:-1 group-title="{grp}",{name}\n{url}')
+                  url = f"https://vavoo.to/play/{ch.get('id')}/index.m3u8?n=1&sig={sig}"
+                  out.append(f'#EXTINF:-1 group-title="{ch.get("country")}",{ch.get("name")}\n{url}')
               
-              final_content = "\n".join(out)
+              final = "\n".join(out)
               
-              # 3. Dosyayı GitHub'a zorla yaz
+              # 3. GitHub'a tertemiz yaz (Döngüye girmeden)
               api_url = f"https://api.github.com/repos/{USER}/{REPO}/contents/{FILE}"
               r_get = h.request('GET', api_url, headers=headers)
               sha = json.loads(r_get.data.decode('utf-8')).get("sha") if r_get.status == 200 else None
               
-              payload = {
-                  "message": "Playlist Force Created",
-                  "content": base64.b64encode(final_content.encode("utf-8")).decode("utf-8")
-              }
+              payload = {"message": "Final Sync with Sig", "content": base64.b64encode(final.encode("utf-8")).decode("utf-8")}
               if sha: payload["sha"] = sha
               
               r_put = h.request('PUT', api_url, headers=headers, body=json.dumps(payload).encode("utf-8"))
-              print(f"Bitti! Status: {r_put.status}") 
+              print(f"Bitti! Durum: {r_put.status}")
           except Exception as e:
               print(f"Hata: {e}")
           END
