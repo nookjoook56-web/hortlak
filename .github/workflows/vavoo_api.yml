@@ -1,46 +1,63 @@
-name: Vavoo Force Sync
+name: Vavoo API Güncelleyici
 
 on:
+  workflow_dispatch: # Manuel başlatma butonu sağlar
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Her gece 00:00'da otomatik çalışır
+
+permissions:
+  contents: write # Dosyayı kaydedebilmesi için yazma izni
 
 jobs:
-  build:
+  update_playlist:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Install
-        run: pip install cloudscraper urllib3
-      - name: Run
-        env:
-          MY_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+      - name: Depoyu Kopyala
+        uses: actions/checkout@v4
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Gerekli Paketleri Yükle
+        run: pip install requests
+
+      - name: Playlist'i Oluştur
         run: |
-          python << END
-          import cloudscraper, urllib3, base64, json, os
-          s = cloudscraper.create_scraper()
-          h = urllib3.PoolManager()
-          TOKEN = os.getenv('MY_TOKEN')
-          USER = "nookjoook56-web"
-          REPO = "hortlak" 
-          FILE = "playlist.m3u"
-          try:
-              auth = s.post("https://vavoo.to/api/box/ping2", data={"veo": "1"}).json()
-              sig = auth.get('signed', '')
-              channels = s.get("https://vavoo.to/channels", timeout=30).json()
-              out = ["#EXTM3U"]
-              for ch in channels:
-                  url = f"https://vavoo.to/play/{ch.get('id')}/index.m3u8?n=1&sig={sig}"
-                  out.append(f'#EXTINF:-1 group-title="{ch.get("country")}",{ch.get("name")}\n{url}')
-              final = "\n".join(out)
-              api = f"https://api.github.com/repos/{USER}/{REPO}/contents/{FILE}"
-              r_g = h.request('GET', api, headers={"Authorization": f"token {TOKEN}"})
-              sha = json.loads(r_g.data.decode('utf-8')).get("sha") if r_g.status == 200 else None
-              payload = {"message": "Playlist Olusturuldu", "content": base64.b64encode(final.encode("utf-8")).decode("utf-8")}
-              if sha: payload["sha"] = sha
-              res = h.request('PUT', api, headers={"Authorization": f"token {TOKEN}"}, body=json.dumps(payload).encode("utf-8"))
-              print(f"Durum: {res.status}")
-          except Exception as e: print(f"Hata: {e}")
-          END
+          cat << 'EOF' > script.py
+          import requests
+          import json
+          
+          def main():
+              api_url = "https://www2.vavoo.to/live2/index"
+              try:
+                  response = requests.get(api_url, timeout=30)
+                  data = response.json()
+                  with open("playlist.m3u", "w", encoding="utf-8") as f:
+                      f.write("#EXTM3U\n")
+                      for item in data:
+                          name = item.get('name', 'Adsız Kanal')
+                          url = item.get('url')
+                          group = item.get('group', 'Genel')
+                          logo = item.get('logo', '')
+                          if url:
+                              f.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n')
+                              f.write(f"{url}\n")
+                  print("Playlist başarıyla güncellendi.")
+              except Exception as e:
+                  print(f"Hata: {e}")
+
+          if __name__ == "__main__":
+              main()
+          EOF
+          python script.py
+
+      - name: Değişiklikleri Kaydet ve Push Et
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add playlist.m3u
+          git commit -m "Vavoo Playlist Güncellendi: $(date +'%Y-%m-%d %H:%M')" || echo "Değişiklik yok"
+          git push
           
