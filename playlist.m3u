@@ -29,8 +29,6 @@ https://vavoo.to/live2/play3/2177006410.m3u8
 https://vavoo.to/live2/play3/1950018869.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",BIBEL TV MUSIK (7)
 https://vavoo.to/live2/play3/1993388560.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",BILD TV (7)
-https://vavoo.to/live2/play3/1363846051.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",BOLLYWOOD (7)
 https://vavoo.to/live2/play3/3973450275.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",BON GUSTO (7)
@@ -45,10 +43,6 @@ https://vavoo.to/live2/play3/2984717924.m3u8
 https://vavoo.to/live2/play3/1929153524.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DAS ERSTE (7)
 https://vavoo.to/live2/play3/2781626432.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 1 -HD (LOCAL) HEVC H.265 (7)
-https://vavoo.to/live2/play3/738145830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 1 [LIVE DURING EVENTS ONLY] (7)
-https://vavoo.to/live2/play3/2748335805.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 2 (7)
 https://vavoo.to/live2/play3/1389052779.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 2 BAR (7)
@@ -77,8 +71,6 @@ https://vavoo.to/live2/play3/1234064310.m3u8
 https://vavoo.to/live2/play3/493970639.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DYN SPORT 10 (7)
 https://vavoo.to/live2/play3/4246322523.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DYN SPORT 2 (7)
-https://vavoo.to/live2/play3/1523654175.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DYN SPORT 3 (7)
 https://vavoo.to/live2/play3/1739667375.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DYN SPORT 4 (7)
@@ -91,8 +83,6 @@ https://vavoo.to/live2/play3/2452722031.m3u8
 https://vavoo.to/live2/play3/755052302.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4141730817.png" group-title="Germany",E! ENTERTAINMENT (7)
 https://vavoo.to/live2/play3/4141730817.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",ESPORTS 1 [LIVE DURING EVENTS ONLY] (7)
-https://vavoo.to/live2/play3/3911683934.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EURONEWS (7)
 https://vavoo.to/live2/play3/3272720417.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EUROSPORT 1 [LIVE DURING EVENTS ONLY] (7)
@@ -105,12 +95,12 @@ https://vavoo.to/live2/play3/1063623223.m3u8
 https://vavoo.to/live2/play3/381261505.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",HEIMAT KANAL (7)
 https://vavoo.to/live2/play3/3743017750.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",HGTV (7)
-https://vavoo.to/live2/play3/1164870618.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",HISTORY CHANNEL (7)
 https://vavoo.to/live2/play3/580268732.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",HR FERNSEHEN (7)
 https://vavoo.to/live2/play3/4034313129.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",HSE (7)
+https://vavoo.to/live2/play3/207666328.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",HSE 24 EXTRA (7)
 https://vavoo.to/live2/play3/3437348876.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",HSE 24 TREND (7)
@@ -155,6 +145,8 @@ https://vavoo.to/live2/play3/3836384200.m3u8
 https://vavoo.to/live2/play3/1727661081.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",MAGENTA SPORT 9 (7)
 https://vavoo.to/live2/play3/1536830889.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",MDF 1 (7)
+https://vavoo.to/live2/play3/1155419760.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",MDR (7)
 https://vavoo.to/live2/play3/2454448782.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",MOTORVISION (7)
@@ -175,6 +167,8 @@ https://vavoo.to/live2/play3/2745430035.m3u8
 https://vavoo.to/live2/play3/2442471730.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NICKELODEON (7)
 https://vavoo.to/live2/play3/2158790500.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",NICKTOONS (7)
+https://vavoo.to/live2/play3/2952309881.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NIEDERBAYERN TV (7)
 https://vavoo.to/live2/play3/2072472994.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NIEDERBAYERN TV PASSAU (7)
@@ -199,14 +193,14 @@ https://vavoo.to/live2/play3/3903816526.m3u8
 https://vavoo.to/live2/play3/1989120851.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",ONE MUSIC (7)
 https://vavoo.to/live2/play3/4157022718.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",ORF 1 (7)
-https://vavoo.to/live2/play3/3506200154.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",ORF 2 (7)
 https://vavoo.to/live2/play3/2539398282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",ORF SPORT+ (7)
 https://vavoo.to/live2/play3/3251653121.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",PHOENIX (7)
 https://vavoo.to/live2/play3/1724125520.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",PIRATES OF THE CARIBBEAN ((ENG 24/7)) (7)
+https://vavoo.to/live2/play3/2757177620.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",PLANET (7)
 https://vavoo.to/live2/play3/3797660887.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",PRO 7 (7)
@@ -223,6 +217,8 @@ https://vavoo.to/live2/play3/2849965291.m3u8
 https://vavoo.to/live2/play3/564855190.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",QVC ZWEI (7)
 https://vavoo.to/live2/play3/1923435141.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",RAKUTEN SPOTLIGHT (7)
+https://vavoo.to/live2/play3/606852291.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RBB (7)
 https://vavoo.to/live2/play3/3043258934.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RBW (7)
@@ -251,8 +247,6 @@ https://vavoo.to/live2/play3/3595908659.m3u8
 https://vavoo.to/live2/play3/4290175185.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RTL UP (7)
 https://vavoo.to/live2/play3/1198260913.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",RTL ZWEI (7)
-https://vavoo.to/live2/play3/2891741753.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SACHSEN FERNSEHEN (7)
 https://vavoo.to/live2/play3/1676133971.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2299297180.png" group-title="Germany",SACHSENEINS (7)
@@ -363,10 +357,16 @@ https://vavoo.to/live2/play3/2389046887.m3u8
 https://vavoo.to/live2/play3/3176094807.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY NOSTALGIE (7)
 https://vavoo.to/live2/play3/1415387726.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY POPCORN SELECT 1 (7)
+https://vavoo.to/live2/play3/2824584591.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY POPCORN SELECT 2 (7)
 https://vavoo.to/live2/play3/4026255199.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY POPCORN SELECT 3 (7)
 https://vavoo.to/live2/play3/3533434607.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY POPCORN SELECT 4 (7)
+https://vavoo.to/live2/play3/1622881023.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY POPCORN SELECT 5 (7)
+https://vavoo.to/live2/play3/1574640463.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY REPLAY (7)
 https://vavoo.to/live2/play3/2339352940.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY SELECT (7)
@@ -421,8 +421,6 @@ https://vavoo.to/live2/play3/1643673427.m3u8
 https://vavoo.to/live2/play3/2393555378.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY SPORT 6 (MATCH TIME) (7)
 https://vavoo.to/live2/play3/1680612560.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",SKY SPORT 7 (MATCH TIME) (7)
-https://vavoo.to/live2/play3/2340334129.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY SPORT 8 (MATCH TIME) (7)
 https://vavoo.to/live2/play3/2097221209.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY SPORT 9 (MATCH TIME) (7)
@@ -443,6 +441,8 @@ https://vavoo.to/live2/play3/572249867.m3u8
 https://vavoo.to/live2/play3/3799248107.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY SPORT MIX (7)
 https://vavoo.to/live2/play3/756758171.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY SPORT NEWS (7)
+https://vavoo.to/live2/play3/4156854331.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY SPORT PREMIER LEAGUE (7)
 https://vavoo.to/live2/play3/1922768904.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY SPORT TENNIS [LIVE DURING EVENTS ONLY] (7)
@@ -507,6 +507,8 @@ https://vavoo.to/live2/play3/3622161112.m3u8
 https://vavoo.to/live2/play3/4286426006.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",WAIDWERK TV (7)
 https://vavoo.to/live2/play3/2801878070.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",WARNER COMEDY (7)
+https://vavoo.to/live2/play3/400663888.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",WARNER COMEDY (BACKUP) (7)
 https://vavoo.to/live2/play3/3862199120.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",WARNER TV FILM (7)
@@ -545,8 +547,6 @@ https://vavoo.to/live2/play3/2241241082.m3u8
 https://vavoo.to/live2/play3/566626057.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",ART KINO 2 (7)
 https://vavoo.to/live2/play3/1654459576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",ART SPORT 1 (7)
-https://vavoo.to/live2/play3/1729459361.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",ART SPORT 2 (7)
 https://vavoo.to/live2/play3/548736625.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",ART SPORT 3 (7)
@@ -585,8 +585,6 @@ https://vavoo.to/live2/play3/3351792556.m3u8
 https://vavoo.to/live2/play3/1131363710.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",DIVA (7)
 https://vavoo.to/live2/play3/1808512931.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",DUCK TV (7)
-https://vavoo.to/live2/play3/2283376730.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",ERA TV (7)
 https://vavoo.to/live2/play3/3287700720.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",EURO AL (7)
@@ -681,6 +679,8 @@ https://vavoo.to/live2/play3/440689150.m3u8
 https://vavoo.to/live2/play3/1007948568.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",LIRIA (7)
 https://vavoo.to/live2/play3/3726501858.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",LIVING (7)
+https://vavoo.to/live2/play3/2263551325.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",MCN TV (7)
 https://vavoo.to/live2/play3/2998554778.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",METITV COMEDY (7)
@@ -703,6 +703,8 @@ https://vavoo.to/live2/play3/4213852651.m3u8
 https://vavoo.to/live2/play3/4001707878.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",PEACE TV (7)
 https://vavoo.to/live2/play3/3099241224.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",PENDIMI (7)
+https://vavoo.to/live2/play3/1102055734.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",PREMIER SPORTS 2 [LIVE DURING EVENTS ONLY] (7)
 https://vavoo.to/live2/play3/2346606368.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",PRO 1 (7)
@@ -963,8 +965,6 @@ https://vavoo.to/live2/play3/421860136.m3u8
 https://vavoo.to/live2/play3/2786438473.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",CINEMA TV BH (7)
 https://vavoo.to/live2/play3/3863662541.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Balkans",CINEMANIA (7)
-https://vavoo.to/live2/play3/2763008054.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",CINEMAX 1 (7)
 https://vavoo.to/live2/play3/1989623711.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",CINEMAX 2 (7)
@@ -1013,6 +1013,8 @@ https://vavoo.to/live2/play3/1039949502.m3u8
 https://vavoo.to/live2/play3/330188485.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",EUROSPORT 2 (7)
 https://vavoo.to/live2/play3/1410219029.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Balkans",FEDERALNA TELEVIZIJA (7)
+https://vavoo.to/live2/play3/106979797.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",FIGHTBOX (7)
 https://vavoo.to/live2/play3/2237874125.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",FILMBOX (7)
@@ -1159,6 +1161,8 @@ https://vavoo.to/live2/play3/3378858921.m3u8
 https://vavoo.to/live2/play3/241827126.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",PINK BH (7)
 https://vavoo.to/live2/play3/1354766451.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Balkans",PINK CLASSIC (7)
+https://vavoo.to/live2/play3/2552855542.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",PINK COMEDY (7)
 https://vavoo.to/live2/play3/4042990906.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",PINK CRIME & MYSTERY (7)
@@ -1169,6 +1173,8 @@ https://vavoo.to/live2/play3/4122781242.m3u8
 https://vavoo.to/live2/play3/4125351413.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",PINK FASHION (7)
 https://vavoo.to/live2/play3/1375797154.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Balkans",PINK FILM (7)
+https://vavoo.to/live2/play3/1153957703.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",PINK FOLK (7)
 https://vavoo.to/live2/play3/2824290269.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",PINK FOLK 1 (7)
@@ -1289,8 +1295,6 @@ https://vavoo.to/live2/play3/4026229012.m3u8
 https://vavoo.to/live2/play3/3405730466.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",SPORT KLUB 1 (7)
 https://vavoo.to/live2/play3/2074791740.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Balkans",SPORT KLUB 2 [LIVE DURING EVENTS ONLY] (7)
-https://vavoo.to/live2/play3/2936483261.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",SPORT KLUB 3 (7)
 https://vavoo.to/live2/play3/23764060.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",SPORT KLUB GOLF (7)
@@ -1593,8 +1597,6 @@ https://vavoo.to/live2/play3/4098717505.m3u8
 https://vavoo.to/live2/play3/3717538119.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",CANAL + SPORTS 1 HD (7)
 https://vavoo.to/live2/play3/2307221187.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",CANAL + SPORTS 2 HD (7)
-https://vavoo.to/live2/play3/118120736.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",CANAL 2 INTERNATIONAL (7)
 https://vavoo.to/live2/play3/3388979409.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",CANAL ALPHA (7)
@@ -1691,10 +1693,6 @@ https://vavoo.to/live2/play3/2141653939.m3u8
 https://vavoo.to/live2/play3/2962552355.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",CANAL+ SPORT (7)
 https://vavoo.to/live2/play3/2391290436.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",CANAL+ SPORT 2 (7)
-https://vavoo.to/live2/play3/703788444.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/1660968992.png" group-title="France",CANAL+ SPORT 2 HD (LIGUE 1) (7)
-https://vavoo.to/live2/play3/1660968992.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",CANAL+ SPORT 360 (7)
 https://vavoo.to/live2/play3/1814819760.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",CANAL+ SPORT FHD (7)
@@ -1705,10 +1703,6 @@ https://vavoo.to/live2/play3/2846119468.m3u8
 https://vavoo.to/live2/play3/2155449213.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",CANAL+ SPORTS 4 HD (7)
 https://vavoo.to/live2/play3/2327609956.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",CANAL+ SPORTS 5 HD (7)
-https://vavoo.to/live2/play3/1175880442.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",CANAL+ TOP 14 (7)
-https://vavoo.to/live2/play3/1703957200.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/807151758.png" group-title="France",CANAL+ UEFA FHD (7)
 https://vavoo.to/live2/play3/807151758.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",CARTOON NETWORK FHD (7)
@@ -1767,6 +1761,8 @@ https://vavoo.to/live2/play3/2309383002.m3u8
 https://vavoo.to/live2/play3/2053910442.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",CRIME DISTRICT (7)
 https://vavoo.to/live2/play3/2686355607.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",CUISINES (7)
+https://vavoo.to/live2/play3/2140818382.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3110706438.png" group-title="France",DAZN 1 (7)
 https://vavoo.to/live2/play3/3110706438.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",DAZN 4K (EVENT ONLY) (7)
@@ -1813,6 +1809,8 @@ https://vavoo.to/live2/play3/1885563251.m3u8
 https://vavoo.to/live2/play3/3860273832.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",EQUIDIA HD (BACKUP) (7)
 https://vavoo.to/live2/play3/497818502.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",EQUIPE HD (7)
+https://vavoo.to/live2/play3/1547434500.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",ES1 HD (7)
 https://vavoo.to/live2/play3/1459680530.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",EUROCHANNEL HD (7)
@@ -2127,6 +2125,10 @@ https://vavoo.to/live2/play3/1487109861.m3u8
 https://vavoo.to/live2/play3/789832663.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",RMC SPORT 5 (7)
 https://vavoo.to/live2/play3/2637381575.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",RMC SPORT 6 (7)
+https://vavoo.to/live2/play3/3667084567.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",RMC SPORT 9 (7)
+https://vavoo.to/live2/play3/1489228486.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",RMC STORY (7)
 https://vavoo.to/live2/play3/968071291.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",ROUGE TV (7)
@@ -2379,8 +2381,6 @@ https://vavoo.to/live2/play3/563160609.m3u8
 https://vavoo.to/live2/play3/4060499455.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",HGTV (7)
 https://vavoo.to/live2/play3/4248997029.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",HISTORY (7)
-https://vavoo.to/live2/play3/2134724757.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",ICARO TV (7)
 https://vavoo.to/live2/play3/2392139008.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",ITALIA 3 (7)
@@ -2395,8 +2395,6 @@ https://vavoo.to/live2/play3/3815726749.m3u8
 https://vavoo.to/live2/play3/1425667375.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",LA 7 (7)
 https://vavoo.to/live2/play3/775530063.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",MEDIASET 1 (7)
-https://vavoo.to/live2/play3/633342961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",MEDIASET 20 (7)
 https://vavoo.to/live2/play3/3134481201.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",MEDIASET IRIS (7)
@@ -2531,12 +2529,16 @@ https://vavoo.to/live2/play3/326825326.m3u8
 https://vavoo.to/live2/play3/78546677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",SKY SPORT UNO (7)
 https://vavoo.to/live2/play3/3192996672.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",SKY SPORTS F1 (7)
+https://vavoo.to/live2/play3/2289038972.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",SKY SUPER TENNIS (7)
 https://vavoo.to/live2/play3/558282118.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",SKY TG 24 (7)
 https://vavoo.to/live2/play3/318057128.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/322024849.png" group-title="Italy",SKY UNO (7)
 https://vavoo.to/live2/play3/322024849.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",SPORT ITALIA (7)
+https://vavoo.to/live2/play3/2881739927.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] (7)
 https://vavoo.to/live2/play3/830949486.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",SUPER TENNIS (7)
@@ -2611,8 +2613,6 @@ https://vavoo.to/live2/play3/4053879.m3u8
 https://vavoo.to/live2/play3/203464866.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",DJAZZ TV (7)
 https://vavoo.to/live2/play3/2897120181.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherlands",DUCK TV (7)
-https://vavoo.to/live2/play3/2149796005.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3680791301.png" group-title="Netherlands",E! ENTERTAINMENT (7)
 https://vavoo.to/live2/play3/3680791301.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",ESPN 1 (7)
@@ -2635,6 +2635,8 @@ https://vavoo.to/live2/play3/453029930.m3u8
 https://vavoo.to/live2/play3/1467439935.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",FILM 1 ACTION (7)
 https://vavoo.to/live2/play3/887233041.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",FILM 1 DRAMA (7)
+https://vavoo.to/live2/play3/2329363703.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",FILM 1 FAMILY (7)
 https://vavoo.to/live2/play3/3479714514.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",FILM 1 PREMIERE (7)
@@ -2767,6 +2769,8 @@ https://vavoo.to/live2/play3/2657544137.m3u8
 https://vavoo.to/live2/play3/1605713445.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",TV 538 (7)
 https://vavoo.to/live2/play3/466082021.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",TV ORANJE (7)
+https://vavoo.to/live2/play3/2174849927.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",VERONICA DISNEY XD (7)
 https://vavoo.to/live2/play3/3607349185.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",VIAPLAY 1 (7)
@@ -2813,6 +2817,8 @@ https://vavoo.to/live2/play3/3183114381.m3u8
 https://vavoo.to/live2/play3/1072361308.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",VIAPLAY 29 (7)
 https://vavoo.to/live2/play3/42649324.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",VIAPLAY 3 (7)
+https://vavoo.to/live2/play3/3238577452.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",VIAPLAY 30 (7)
 https://vavoo.to/live2/play3/3301340984.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",VIAPLAY 4 (7)
@@ -2831,8 +2837,14 @@ https://vavoo.to/live2/play3/2344148365.m3u8
 https://vavoo.to/live2/play3/190889111.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",XITE (7)
 https://vavoo.to/live2/play3/2549224723.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ZIGGO DOCU (7)
+https://vavoo.to/live2/play3/3864809811.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",ZIGGO SPORT (7)
 https://vavoo.to/live2/play3/3749103743.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ZIGGO SPORT DOCU (7)
+https://vavoo.to/live2/play3/486755545.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ZIGGO SPORT EXTRA (7)
+https://vavoo.to/live2/play3/319163860.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",ZIGGO SPORT EXTRA 2 (7)
 https://vavoo.to/live2/play3/4006989621.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherlands",ZIGGO SPORT GOLF (7)
@@ -2867,6 +2879,8 @@ https://vavoo.to/live2/play3/355964474.m3u8
 https://vavoo.to/live2/play3/2135143941.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",ARDEAL TV (7)
 https://vavoo.to/live2/play3/3491626627.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Romania",ARGES TV (7)
+https://vavoo.to/live2/play3/1985752732.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",ATOMIC ACADEMY TV (7)
 https://vavoo.to/live2/play3/1533490433.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",ATOMIC TV (7)
@@ -2891,10 +2905,10 @@ https://vavoo.to/live2/play3/1909701741.m3u8
 https://vavoo.to/live2/play3/4042981340.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",COMEDY PLAY (7)
 https://vavoo.to/live2/play3/465445474.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Romania",CREDO (7)
-https://vavoo.to/live2/play3/3089743655.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",DAVINCI LEARNING (7)
 https://vavoo.to/live2/play3/2117365693.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Romania",DIGI 24 (7)
+https://vavoo.to/live2/play3/185416755.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",DIGI 4K TV (7)
 https://vavoo.to/live2/play3/2467663593.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",DIGI ANIMAL WORLD (7)
@@ -2941,14 +2955,14 @@ https://vavoo.to/live2/play3/4133095385.m3u8
 https://vavoo.to/live2/play3/1344287270.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",JIM JAM (7)
 https://vavoo.to/live2/play3/1430505537.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Romania",KISS TV (7)
+https://vavoo.to/live2/play3/3120381441.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",M9TV (7)
 https://vavoo.to/live2/play3/2414002905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",MAGIC TV (7)
 https://vavoo.to/live2/play3/3737977832.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",MEDICOOL TV (7)
 https://vavoo.to/live2/play3/2424114096.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Romania",METROPOLA TV (7)
-https://vavoo.to/live2/play3/1871377147.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",MIREASA (7)
 https://vavoo.to/live2/play3/518251734.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",MOOZ (7)
@@ -2957,6 +2971,8 @@ https://vavoo.to/live2/play3/2897950865.m3u8
 https://vavoo.to/live2/play3/1225205721.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",MTV HITS (7)
 https://vavoo.to/live2/play3/2992909400.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3909115636.png" group-title="Romania",MUSCEL TV (7)
+https://vavoo.to/live2/play3/3909115636.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",NATIONAL 24 PLUS (7)
 https://vavoo.to/live2/play3/714028764.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",NATIONAL TV (7)
@@ -2965,14 +2981,14 @@ https://vavoo.to/live2/play3/28404323.m3u8
 https://vavoo.to/live2/play3/130908298.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",ORANGE SPORT 1 (7)
 https://vavoo.to/live2/play3/3731501465.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Romania",ORANGE SPORT 2 (7)
-https://vavoo.to/live2/play3/2580171593.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",ORANGE SPORT 3 (7)
 https://vavoo.to/live2/play3/2762629881.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",ORANGE SPORT 4 (7)
 https://vavoo.to/live2/play3/378191593.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",PAPRIKA TV (7)
 https://vavoo.to/live2/play3/3497498233.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Romania",PLOIESTI TV (7)
+https://vavoo.to/live2/play3/3537690621.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",PRIMA TV (7)
 https://vavoo.to/live2/play3/2054040562.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",PRO ARENA (7)
@@ -3365,6 +3381,8 @@ https://vavoo.to/live2/play3/4178923922.m3u8
 https://vavoo.to/live2/play3/4160404107.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Russia",TBC (7)
 https://vavoo.to/live2/play3/2026484172.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Russia",TELE CAFE (7)
+https://vavoo.to/live2/play3/1561761111.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Russia",TELEPUTESHESTVYA (7)
 https://vavoo.to/live2/play3/1466461372.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Russia",THT 4 (7)
@@ -3583,14 +3601,14 @@ https://vavoo.to/live2/play3/3278683973.m3u8
 https://vavoo.to/live2/play3/1268465409.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",DIGI MAX (7)
 https://vavoo.to/live2/play3/1278447576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey",DIGI MAX 2 (7)
+https://vavoo.to/live2/play3/1104559360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",DISCOVERY CHANNEL (7)
 https://vavoo.to/live2/play3/3079995901.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",DISCOVERY ID (7)
 https://vavoo.to/live2/play3/972730032.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",DISCOVERY SCIENCE (7)
 https://vavoo.to/live2/play3/3698852323.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey",DISNEY JR (7)
-https://vavoo.to/live2/play3/3963678097.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",DIZI SMART MAX (7)
 https://vavoo.to/live2/play3/4079530614.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",DIZI SMART PREMIUM (7)
@@ -3695,8 +3713,6 @@ https://vavoo.to/live2/play3/3986444106.m3u8
 https://vavoo.to/live2/play3/2415331568.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",HRT AKDENIZ (7)
 https://vavoo.to/live2/play3/2119436951.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey",HT SPOR (7)
-https://vavoo.to/live2/play3/1240193403.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",IDMAN TV (7)
 https://vavoo.to/live2/play3/1993949957.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",KADIRGA (7)
@@ -3821,6 +3837,8 @@ https://vavoo.to/live2/play3/3280579549.m3u8
 https://vavoo.to/live2/play3/915717266.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",SARAN SPORT 1 (7)
 https://vavoo.to/live2/play3/3962972352.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey",SARAN SPORT 2 (7)
+https://vavoo.to/live2/play3/2878755344.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",SAT 7 TURK (7)
 https://vavoo.to/live2/play3/3343868905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",SAT7 TURK (7)
@@ -3927,8 +3945,6 @@ https://vavoo.to/live2/play3/568442751.m3u8
 https://vavoo.to/live2/play3/1004102408.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",TJK TV (7)
 https://vavoo.to/live2/play3/2322888064.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey",TLC (7)
-https://vavoo.to/live2/play3/951448076.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",TMB (7)
 https://vavoo.to/live2/play3/3465087001.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",TRT 1 (7)
@@ -4045,6 +4061,8 @@ https://vavoo.to/live2/play3/2015813344.m3u8
 https://vavoo.to/live2/play3/3808303634.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",AMERICAN GUN (7)
 https://vavoo.to/live2/play3/1779196218.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",AMERICAN HORROR STORY ꜱᴇƦꞮᴇ (7)
+https://vavoo.to/live2/play3/1088199163.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",AMERICAN NINJA (7)
 https://vavoo.to/live2/play3/4203110706.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",ANGELINA JOLIE (7)
@@ -4071,12 +4089,16 @@ https://vavoo.to/live2/play3/3298874139.m3u8
 https://vavoo.to/live2/play3/3285986497.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",ASTRO CRICKET (7)
 https://vavoo.to/live2/play3/3561753605.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",ASTRO FOOTBALL (7)
+https://vavoo.to/live2/play3/2260252862.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",ASTRO GRANDSTAND (7)
 https://vavoo.to/live2/play3/72211597.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1521727266.png" group-title="United Kingdom",ASTRO PL (7)
 https://vavoo.to/live2/play3/1521727266.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1495642669.png" group-title="United Kingdom",ASTRO PL2 (7)
 https://vavoo.to/live2/play3/1495642669.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",ASTRO PREMIER LEAGUE (7)
+https://vavoo.to/live2/play3/16183629.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",ASTRO PREMIER LEAGUE 2 (7)
 https://vavoo.to/live2/play3/4200420257.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",ATLANTA ꜱᴇƦꞮᴇ (7)
@@ -4089,8 +4111,8 @@ https://vavoo.to/live2/play3/3091451729.m3u8
 https://vavoo.to/live2/play3/2680781689.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",BARROW A.F.C. (7)
 https://vavoo.to/live2/play3/1568776223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom",BBC 3 (7)
-https://vavoo.to/live2/play3/762039323.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",BBC ALBA (7)
+https://vavoo.to/live2/play3/3059768473.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",BBC ENTERTAINMENT (7)
 https://vavoo.to/live2/play3/2087989985.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",BBC FOUR (BACKUP) (7)
@@ -4161,6 +4183,8 @@ https://vavoo.to/live2/play3/1335045249.m3u8
 https://vavoo.to/live2/play3/2153829620.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",BLAZE (7)
 https://vavoo.to/live2/play3/1935013064.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",BLOOMBERG (7)
+https://vavoo.to/live2/play3/1154799044.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",BLOOMBERG NEWS HD (7)
 https://vavoo.to/live2/play3/719335520.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",BOLTON WANDERERS F.C. (7)
@@ -4275,6 +4299,12 @@ https://vavoo.to/live2/play3/3044753320.m3u8
 https://vavoo.to/live2/play3/2917412899.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",CBS JUSTICE (7)
 https://vavoo.to/live2/play3/1247098232.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",CBS REALITY (7)
+https://vavoo.to/live2/play3/4016413143.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/359083731.png" group-title="United Kingdom",CHALLENGE (7)
+https://vavoo.to/live2/play3/359083731.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/296984725.png" group-title="United Kingdom",CHALLENGE (BACKUP) (7)
+https://vavoo.to/live2/play3/296984725.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",CHAMPS BIRMINGHAM CITY (7)
 https://vavoo.to/live2/play3/1158631707.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",CHAMPS BRISTOL CITY (7)
@@ -4319,6 +4349,8 @@ https://vavoo.to/live2/play3/2336552491.m3u8
 https://vavoo.to/live2/play3/3305278953.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2042114524.png" group-title="United Kingdom",CHANNEL 4 (7)
 https://vavoo.to/live2/play3/2042114524.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1464917244.png" group-title="United Kingdom",CHANNEL 4 HD (7)
+https://vavoo.to/live2/play3/1464917244.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1155012716.png" group-title="United Kingdom",CHANNEL 5 (7)
 https://vavoo.to/live2/play3/1155012716.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2616908898.png" group-title="United Kingdom",CHANNEL 5 HD (7)
@@ -4449,8 +4481,6 @@ https://vavoo.to/live2/play3/423810267.m3u8
 https://vavoo.to/live2/play3/2322221413.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1703040214.png" group-title="United Kingdom",DISCOVERY TURBO (7)
 https://vavoo.to/live2/play3/1703040214.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom",DISNEY CHANNEL (7)
-https://vavoo.to/live2/play3/454135378.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",DISNEY JUNIOR (7)
 https://vavoo.to/live2/play3/4084615517.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",DISNEY XD (7)
@@ -4501,8 +4531,6 @@ https://vavoo.to/live2/play3/1357290498.m3u8
 https://vavoo.to/live2/play3/3415161291.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",DWAYNE JOHNSON E (7)
 https://vavoo.to/live2/play3/2937618856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom",E4 (BACKUP) (7)
-https://vavoo.to/live2/play3/2668872239.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",EDEN (7)
 https://vavoo.to/live2/play3/2230151894.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",EIR SPORT 1 (7)
@@ -4675,6 +4703,8 @@ https://vavoo.to/live2/play3/3172198203.m3u8
 https://vavoo.to/live2/play3/3372984228.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",ITV 3 (7)
 https://vavoo.to/live2/play3/537712899.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",ITV 3 (BACKUP) (7)
+https://vavoo.to/live2/play3/756839166.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",ITV 4 (7)
 https://vavoo.to/live2/play3/2452358419.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",ITV 4 +1 (7)
@@ -4871,6 +4901,8 @@ https://vavoo.to/live2/play3/4258813039.m3u8
 https://vavoo.to/live2/play3/2925115618.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",QVC EXTRA (7)
 https://vavoo.to/live2/play3/2575972950.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",QVC EXTRA (BACKUP) (7)
+https://vavoo.to/live2/play3/3464874288.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",QVC FHD (7)
 https://vavoo.to/live2/play3/2078289011.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",QVC STYLE FHD (7)
@@ -4909,6 +4941,8 @@ https://vavoo.to/live2/play3/3947654331.m3u8
 https://vavoo.to/live2/play3/3774672765.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",RUSH SPORT (7)
 https://vavoo.to/live2/play3/2378350036.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",S4C (7)
+https://vavoo.to/live2/play3/1049807868.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SALFORD CITY F.C. (7)
 https://vavoo.to/live2/play3/3729887141.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SAMUL L JACKSO (7)
@@ -4957,8 +4991,6 @@ https://vavoo.to/live2/play3/2960921356.m3u8
 https://vavoo.to/live2/play3/1985468567.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY CINEMA ACTION HD (7)
 https://vavoo.to/live2/play3/2492860830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY CINEMA ANIMATION (7)
-https://vavoo.to/live2/play3/177403544.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY CINEMA COMEDY (7)
 https://vavoo.to/live2/play3/2294612123.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY CINEMA COMEDY (BACKUP) (7)
@@ -4973,6 +5005,8 @@ https://vavoo.to/live2/play3/2380134484.m3u8
 https://vavoo.to/live2/play3/2797942344.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY CINEMA GREATS (7)
 https://vavoo.to/live2/play3/2993496155.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY CINEMA HITS (7)
+https://vavoo.to/live2/play3/2393427587.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY CINEMA PREMIERE (7)
 https://vavoo.to/live2/play3/1728928979.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY CINEMA PREMIERE HD (7)
@@ -4981,8 +5015,8 @@ https://vavoo.to/live2/play3/928303414.m3u8
 https://vavoo.to/live2/play3/1482967190.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY CINEMA SELECT (7)
 https://vavoo.to/live2/play3/326827898.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY CINEMA THRILLER (7)
-https://vavoo.to/live2/play3/2712076920.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY CINEMA SELECT HD (7)
+https://vavoo.to/live2/play3/2864096280.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY CINEMA THRILLER HD (7)
 https://vavoo.to/live2/play3/4030873949.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1090074945.png" group-title="United Kingdom",SKY COMEDY (7)
@@ -5033,8 +5067,6 @@ https://vavoo.to/live2/play3/1386668033.m3u8
 https://vavoo.to/live2/play3/1012478660.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2955785097.png" group-title="United Kingdom",SKY SPORTS ARENA HD (7)
 https://vavoo.to/live2/play3/2955785097.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/55000388.png" group-title="United Kingdom",SKY SPORTS CRICKET (7)
-https://vavoo.to/live2/play3/55000388.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1463902640.png" group-title="United Kingdom",SKY SPORTS CRICKET (BACKUP) (7)
 https://vavoo.to/live2/play3/1463902640.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/635934031.png" group-title="United Kingdom",SKY SPORTS CRICKET HD (7)
@@ -5073,6 +5105,8 @@ https://vavoo.to/live2/play3/2722741711.m3u8
 https://vavoo.to/live2/play3/3598972368.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/333060100.png" group-title="United Kingdom",SKY SPORTS NEWS (BACKUP) (7)
 https://vavoo.to/live2/play3/333060100.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY SPORTS NEWS HQ HD (7)
+https://vavoo.to/live2/play3/2149493003.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2337599909.png" group-title="United Kingdom",SKY SPORTS NFL (7)
 https://vavoo.to/live2/play3/2337599909.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3791645625.png" group-title="United Kingdom",SKY SPORTS PREMIER LEAGUE (7)
@@ -5253,8 +5287,6 @@ https://vavoo.to/live2/play3/1563126096.m3u8
 https://vavoo.to/live2/play3/1133360902.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",UTV (7)
 https://vavoo.to/live2/play3/4256622958.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom",VH1 (7)
-https://vavoo.to/live2/play3/2472057422.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",VIAPLAY EVENT 1 (7)
 https://vavoo.to/live2/play3/1608977213.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",VIAPLAY EVENT 10 (7)
@@ -5343,8 +5375,6 @@ https://vavoo.to/live2/play3/3932296459.m3u8
 https://vavoo.to/live2/play3/2037441576.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/247062665.png" group-title="Germany",13TH STREET (6)
 https://vavoo.to/live2/play3/247062665.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",244 PLUTO TV KULT FILME (6)
-https://vavoo.to/live2/play3/2365659562.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1902600011.png" group-title="Germany",3SAT (6)
 https://vavoo.to/live2/play3/1902600011.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3285100662.png" group-title="Germany",3SAT HD [SAT] [] (6)
@@ -5365,6 +5395,8 @@ https://vavoo.to/live2/play3/2469693031.m3u8
 https://vavoo.to/live2/play3/1382048336.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/211443568.png" group-title="Germany",ANIXE SERIE (6)
 https://vavoo.to/live2/play3/211443568.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1110120919.png" group-title="Germany",ANIXE SERIE HD [SAT] [] (6)
+https://vavoo.to/live2/play3/1110120919.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2993796901.png" group-title="Germany",ANIXE+ (6)
 https://vavoo.to/live2/play3/2993796901.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",APART TV (6)
@@ -5379,12 +5411,20 @@ https://vavoo.to/live2/play3/939454216.m3u8
 https://vavoo.to/live2/play3/564036923.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1834925213.png" group-title="Germany",AUTO MOTOR SPORT (6)
 https://vavoo.to/live2/play3/1834925213.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/315012507.png" group-title="Germany",AXN BLACK (6)
+https://vavoo.to/live2/play3/315012507.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3056472300.png" group-title="Germany",BABY TV (6)
+https://vavoo.to/live2/play3/3056472300.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2249878622.png" group-title="Germany",BADEN TV (6)
+https://vavoo.to/live2/play3/2249878622.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",BADEN TV SÜD (6)
 https://vavoo.to/live2/play3/827556591.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BALLERMANN TV (6)
+https://vavoo.to/live2/play3/3375491906.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1474407208.png" group-title="Germany",BAYERISCHES FERNSEHEN NORD (6)
+https://vavoo.to/live2/play3/1474407208.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/781107308.png" group-title="Germany",BAYERISCHES FERNSEHEN SUD (6)
 https://vavoo.to/live2/play3/781107308.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",BAYWATCH (6)
-https://vavoo.to/live2/play3/3598250405.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/492394132.png" group-title="Germany",BBC TOP GEAR GERMANY (6)
 https://vavoo.to/live2/play3/492394132.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2575512101.png" group-title="Germany",BERGBLICK (6)
@@ -5397,16 +5437,12 @@ https://vavoo.to/live2/play3/3220962426.m3u8
 https://vavoo.to/live2/play3/256446243.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/7043111.png" group-title="Germany",BIBEL TV WEB (6)
 https://vavoo.to/live2/play3/7043111.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",BIG BROTHER (6)
-https://vavoo.to/live2/play3/3880053996.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2324017008.png" group-title="Germany",BILD TV (6)
 https://vavoo.to/live2/play3/2324017008.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3664038347.png" group-title="Germany",BLK REGIONAL TV (6)
 https://vavoo.to/live2/play3/3664038347.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3858606957.png" group-title="Germany",BON GUSTO (6)
 https://vavoo.to/live2/play3/3858606957.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/379030969.png" group-title="Germany",CARTOON NETWORK (6)
-https://vavoo.to/live2/play3/379030969.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/620564549.png" group-title="Germany",CARTOONITO (6)
 https://vavoo.to/live2/play3/620564549.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/706733292.png" group-title="Germany",CHANNEL 21 (6)
@@ -5421,10 +5457,14 @@ https://vavoo.to/live2/play3/736901547.m3u8
 https://vavoo.to/live2/play3/1091580590.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME ANIMATION (6)
 https://vavoo.to/live2/play3/1232797460.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME CINEMA (6)
+https://vavoo.to/live2/play3/898111808.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME COMEDY (6)
 https://vavoo.to/live2/play3/3213028002.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME DC MOVIES (6)
 https://vavoo.to/live2/play3/1383025134.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME FAMILIE (6)
+https://vavoo.to/live2/play3/4015760059.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME FILMAX ACTION (6)
 https://vavoo.to/live2/play3/3936933132.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME FILMAX ANIMATION (6)
@@ -5447,6 +5487,10 @@ https://vavoo.to/live2/play3/2660224676.m3u8
 https://vavoo.to/live2/play3/287503823.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME FILMAX HARRY POTTER (6)
 https://vavoo.to/live2/play3/91694108.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME FILMAX HORROR (6)
+https://vavoo.to/live2/play3/4130322146.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME FILMAX JASON STATHAM (6)
+https://vavoo.to/live2/play3/3403016754.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME FILMAX JEAN CLAUDE VAN DAMME (6)
 https://vavoo.to/live2/play3/3537055457.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME FILMAX KURT RUSSELL (6)
@@ -5463,8 +5507,10 @@ https://vavoo.to/live2/play3/3360791325.m3u8
 https://vavoo.to/live2/play3/2075303878.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME FILMAX THE FAST & THE FURIOUS (6)
 https://vavoo.to/live2/play3/2940153825.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME FILMAX TOMMY LEE JONES (6)
-https://vavoo.to/live2/play3/1423109274.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME FILMAX TOM CRUISE (6)
+https://vavoo.to/live2/play3/3302097478.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME FILMAX WILL SMITH (6)
+https://vavoo.to/live2/play3/3193816439.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME HITS (6)
 https://vavoo.to/live2/play3/4187926917.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",CINEDOME HORROR (6)
@@ -5519,6 +5565,10 @@ https://vavoo.to/live2/play3/2256158544.m3u8
 https://vavoo.to/live2/play3/1906274466.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2877933473.png" group-title="Germany",DISCOVERY WORLD (6)
 https://vavoo.to/live2/play3/2877933473.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3839598777.png" group-title="Germany",DISNEY+ (6)
+https://vavoo.to/live2/play3/3839598777.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/635686224.png" group-title="Germany",DMAX (6)
+https://vavoo.to/live2/play3/635686224.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1325745142.png" group-title="Germany",DOKUSAT (6)
 https://vavoo.to/live2/play3/1325745142.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DRESDEN FERNSEHEN (6)
@@ -5531,24 +5581,38 @@ https://vavoo.to/live2/play3/4251920961.m3u8
 https://vavoo.to/live2/play3/3390026591.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DYN SPORT 19 [] (6)
 https://vavoo.to/live2/play3/3577784436.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DYN SPORT 2 [] (6)
-https://vavoo.to/live2/play3/1944071586.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DYN SPORT 20 [] (6)
 https://vavoo.to/live2/play3/4085419930.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DYN SPORT 3 [] (6)
+https://vavoo.to/live2/play3/3209309500.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2181381785.png" group-title="Germany",E! (6)
 https://vavoo.to/live2/play3/2181381785.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",EB COLLECTION IP MAN (6)
+https://vavoo.to/live2/play3/1097383239.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",EB COLLECTION KUNG FU PANDA (6)
+https://vavoo.to/live2/play3/1047614386.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",EB COLLECTION MARVELS (6)
+https://vavoo.to/live2/play3/3873121049.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EB COLLECTION MARVELS 2 (6)
 https://vavoo.to/live2/play3/3991980032.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EB COLLECTION MEN IN BLACK (6)
 https://vavoo.to/live2/play3/3639226616.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",EB COLLECTION POLICE ACADEMY (6)
+https://vavoo.to/live2/play3/797326895.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EB COLLECTION SPIDER-MAN (6)
 https://vavoo.to/live2/play3/1571720270.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",EB COLLECTION STAR WARS (6)
+https://vavoo.to/live2/play3/747203696.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",EB COLLECTION TERMINATOR (6)
+https://vavoo.to/live2/play3/761029313.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",EB COLLECTION TRANSFORMERS (6)
+https://vavoo.to/live2/play3/3999998545.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",EB COLLECTION ZURÜCK IN DIE ZUKUNFT (6)
+https://vavoo.to/live2/play3/3614866945.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EB DISNEY+ (6)
 https://vavoo.to/live2/play3/1460962712.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",ECHT JETZT (6)
 https://vavoo.to/live2/play3/1181669164.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/2604913714.png" group-title="Germany",EDGE SPORT (6)
-https://vavoo.to/live2/play3/2604913714.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4078613668.png" group-title="Germany",ELDO.TV (6)
 https://vavoo.to/live2/play3/4078613668.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EMS TV LINGEN (6)
@@ -5563,8 +5627,6 @@ https://vavoo.to/live2/play3/3301562165.m3u8
 https://vavoo.to/live2/play3/1222315896.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/259749288.png" group-title="Germany",EUROSPORT 2 (6)
 https://vavoo.to/live2/play3/259749288.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",FASHIONTV (6)
-https://vavoo.to/live2/play3/627515681.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1014819477.png" group-title="Germany",FC BAYERN (6)
 https://vavoo.to/live2/play3/1014819477.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",FILM GOLD (6)
@@ -5593,12 +5655,18 @@ https://vavoo.to/live2/play3/1111413934.m3u8
 https://vavoo.to/live2/play3/2939506713.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/482977403.png" group-title="Germany",HEIMAT KANAL (6)
 https://vavoo.to/live2/play3/482977403.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1310655423.png" group-title="Germany",HISTORY (6)
+https://vavoo.to/live2/play3/1310655423.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/866580164.png" group-title="Germany",HR FERNSEHEN (6)
+https://vavoo.to/live2/play3/866580164.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1901642755.png" group-title="Germany",HSE (6)
 https://vavoo.to/live2/play3/1901642755.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3970741463.png" group-title="Germany",HSE EXTRA (6)
 https://vavoo.to/live2/play3/3970741463.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3146392775.png" group-title="Germany",HSE TREND (6)
 https://vavoo.to/live2/play3/3146392775.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",ICARLY (6)
+https://vavoo.to/live2/play3/2204218906.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",ISTUFF (6)
 https://vavoo.to/live2/play3/2641811103.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1863799793.png" group-title="Germany",JUKEBOX (6)
@@ -5635,6 +5703,8 @@ https://vavoo.to/live2/play3/68460934.m3u8
 https://vavoo.to/live2/play3/178939013.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 101 LG 1 FILM (6)
 https://vavoo.to/live2/play3/3863143002.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 205 SONY ONE ACTION HITS (6)
+https://vavoo.to/live2/play3/3319131665.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 206 SONY ONE COMEDY HITS (6)
 https://vavoo.to/live2/play3/1698357043.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 208 MOVIESPHERE (6)
@@ -5647,6 +5717,8 @@ https://vavoo.to/live2/play3/2084232695.m3u8
 https://vavoo.to/live2/play3/1003730501.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 215 FILM GOLD (6)
 https://vavoo.to/live2/play3/1450429992.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 217 HIMMLISCHES KINO (6)
+https://vavoo.to/live2/play3/3733038992.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 218 WEDO MOVIES (6)
 https://vavoo.to/live2/play3/3776562763.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 220 GRJNGO WESTERNFILME (6)
@@ -5659,6 +5731,8 @@ https://vavoo.to/live2/play3/3161967256.m3u8
 https://vavoo.to/live2/play3/2626647773.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 226 FABELLA (6)
 https://vavoo.to/live2/play3/3734801773.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 227 HEIMATKINO (6)
+https://vavoo.to/live2/play3/1633554959.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 228 FANTASJA (6)
 https://vavoo.to/live2/play3/320989814.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 229 UTOPJA (6)
@@ -5713,6 +5787,8 @@ https://vavoo.to/live2/play3/1068342251.m3u8
 https://vavoo.to/live2/play3/3061135319.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 333 ARD PLUS KRIMI (6)
 https://vavoo.to/live2/play3/2382862441.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 334 IRONSIDE (6)
+https://vavoo.to/live2/play3/2404490542.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 335 EINE HIMMLISCHE FAMILIE (6)
 https://vavoo.to/live2/play3/2391716869.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 336 PASTEWKA POWERED BY MYSPASS (6)
@@ -5765,6 +5841,10 @@ https://vavoo.to/live2/play3/1056742927.m3u8
 https://vavoo.to/live2/play3/2021367877.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 510 TOP TRUE CRIME (6)
 https://vavoo.to/live2/play3/622698295.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 511 CRIME SCENE TV (6)
+https://vavoo.to/live2/play3/2225148893.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 512 FILM RISE TRUE CRIME (6)
+https://vavoo.to/live2/play3/1933980107.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 513 MEET MARRY MURDER (6)
 https://vavoo.to/live2/play3/318985018.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 519 KULT KRIMI DIE RETTUNGSFLIEGER (6)
@@ -5775,6 +5855,8 @@ https://vavoo.to/live2/play3/1072875610.m3u8
 https://vavoo.to/live2/play3/1860680914.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 528 BIG BROTHER (6)
 https://vavoo.to/live2/play3/4237455321.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 530 HELLS KITCHEN (6)
+https://vavoo.to/live2/play3/808676287.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 531 TOP CHEF (6)
 https://vavoo.to/live2/play3/3145919680.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 533 THE WICKED TUNA CHANNEL (6)
@@ -5799,8 +5881,6 @@ https://vavoo.to/live2/play3/675516971.m3u8
 https://vavoo.to/live2/play3/4242840735.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 635 GOFEMININ TV (6)
 https://vavoo.to/live2/play3/3735104002.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",LG 636 FASHION TV (6)
-https://vavoo.to/live2/play3/2069054998.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 658 BBC HISTORY (6)
 https://vavoo.to/live2/play3/3940162605.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 660 SPIEGEL TV (6)
@@ -5837,6 +5917,8 @@ https://vavoo.to/live2/play3/3582342115.m3u8
 https://vavoo.to/live2/play3/4287084958.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 707 SPORT DIGITAL FUSSBALL (6)
 https://vavoo.to/live2/play3/1364211639.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 708 TOP BARCA (6)
+https://vavoo.to/live2/play3/3228421770.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 709 RED BULL TV (6)
 https://vavoo.to/live2/play3/676713242.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 710 SPORT DIGITAL FREE (6)
@@ -5863,10 +5945,10 @@ https://vavoo.to/live2/play3/3115378186.m3u8
 https://vavoo.to/live2/play3/2310442399.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 745 UNBEATEN (6)
 https://vavoo.to/live2/play3/52491573.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",LG 748 K BASEBALL TV (6)
-https://vavoo.to/live2/play3/1074342588.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 822 NEW KFOOD (6)
 https://vavoo.to/live2/play3/3025769843.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 844 SPONGE BOB SCHWAMM KOPF (6)
+https://vavoo.to/live2/play3/1397659546.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 905 DUCKTV (6)
 https://vavoo.to/live2/play3/148553750.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 906 TELE TUBBIES (6)
@@ -5889,10 +5971,20 @@ https://vavoo.to/live2/play3/940832965.m3u8
 https://vavoo.to/live2/play3/398466129.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 924 INSPECTOR GADGET (6)
 https://vavoo.to/live2/play3/355317320.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 927 SABRINA TOTAL VERHEXT! (6)
+https://vavoo.to/live2/play3/3796615767.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 931 ICARLY (6)
+https://vavoo.to/live2/play3/1099230891.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 942 TOTALLY TURTLES (6)
+https://vavoo.to/live2/play3/3935221219.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 943 YU GI OH (6)
 https://vavoo.to/live2/play3/1296073638.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 944 AVATAR (6)
 https://vavoo.to/live2/play3/4182429660.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 945 PLUTO TV ANIME (6)
+https://vavoo.to/live2/play3/2456600415.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 948 NARUTO (6)
+https://vavoo.to/live2/play3/1522666255.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 955 STINGRAY HIT LIST (6)
 https://vavoo.to/live2/play3/2696188470.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 956 STINGRAY GREATEST HITS (6)
@@ -5919,6 +6011,8 @@ https://vavoo.to/live2/play3/208127688.m3u8
 https://vavoo.to/live2/play3/2547732744.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 972 QWEST TV (6)
 https://vavoo.to/live2/play3/147842206.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 973 DELUXE LOUNGE (6)
+https://vavoo.to/live2/play3/3088228188.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 974 DELUXE DEUTSCH POP (6)
 https://vavoo.to/live2/play3/1403012950.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 975 NOW ROCK (6)
@@ -5935,12 +6029,12 @@ https://vavoo.to/live2/play3/992688592.m3u8
 https://vavoo.to/live2/play3/770389250.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 982 CNN HEAD LINES (6)
 https://vavoo.to/live2/play3/1292417972.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",LG 983 FOCUS TV (6)
-https://vavoo.to/live2/play3/3644647260.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 984 YTN (6)
 https://vavoo.to/live2/play3/2013362980.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 985 AFRICA NEWS (6)
 https://vavoo.to/live2/play3/910551457.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 986 MOCONOMY WIRTSCHAFT UND FINANZEN INFOTAINMENT (6)
+https://vavoo.to/live2/play3/3766052727.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 987 BLOOMBERG ORIGINALS (6)
 https://vavoo.to/live2/play3/3688927017.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 988 BLOOMBERG TV+ (6)
@@ -5951,6 +6045,8 @@ https://vavoo.to/live2/play3/2004008916.m3u8
 https://vavoo.to/live2/play3/4252853887.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 991 CNNI (6)
 https://vavoo.to/live2/play3/802018715.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",LG 994 SKY NEWS (6)
+https://vavoo.to/live2/play3/3683930823.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 995 NEWS WORLD (6)
 https://vavoo.to/live2/play3/2481704926.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",LG 996 NACHRICHTEN 360 (6)
@@ -6013,6 +6109,8 @@ https://vavoo.to/live2/play3/3050571507.m3u8
 https://vavoo.to/live2/play3/180197729.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/925259.png" group-title="Germany",MOTORVISION TV (6)
 https://vavoo.to/live2/play3/925259.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",MOVIEDOME (6)
+https://vavoo.to/live2/play3/2881146903.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",MOVIES CH (6)
 https://vavoo.to/live2/play3/1654682088.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",MR BEAN (6)
@@ -6029,8 +6127,12 @@ https://vavoo.to/live2/play3/999974349.m3u8
 https://vavoo.to/live2/play3/3501325497.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NAT GEO WILD [] (6)
 https://vavoo.to/live2/play3/3524090126.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",NAT GEO [] (6)
+https://vavoo.to/live2/play3/2378846586.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/10515081.png" group-title="Germany",NDR FERNSEHEN (6)
 https://vavoo.to/live2/play3/10515081.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3564160163.png" group-title="Germany",NICK JUNIOR (6)
+https://vavoo.to/live2/play3/3564160163.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NIEDERBAYERN TV DEGGENDORF & STRAUBING (6)
 https://vavoo.to/live2/play3/3677610898.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NIEDERBAYERN TV LANDSHUT (6)
@@ -6039,6 +6141,8 @@ https://vavoo.to/live2/play3/1313687202.m3u8
 https://vavoo.to/live2/play3/234665755.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/855045177.png" group-title="Germany",NIEDERBAYERN TV SATELLIT (6)
 https://vavoo.to/live2/play3/855045177.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2077464868.png" group-title="Germany",NITRO (6)
+https://vavoo.to/live2/play3/2077464868.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2741142705.png" group-title="Germany",NOA 4 HAMBURG (6)
 https://vavoo.to/live2/play3/2741142705.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1749202311.png" group-title="Germany",NOA 4 NORDERSTEDT (6)
@@ -6233,20 +6337,56 @@ https://vavoo.to/live2/play3/94808283.m3u8
 https://vavoo.to/live2/play3/1570440996.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1213433745.png" group-title="Germany",SKY ATLANTIC (6)
 https://vavoo.to/live2/play3/1213433745.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX ABENTEUER (6)
+https://vavoo.to/live2/play3/995356527.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX ACTION (6)
 https://vavoo.to/live2/play3/3239972643.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX BOLLYWOOD (6)
+https://vavoo.to/live2/play3/634011442.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX DOCU (6)
+https://vavoo.to/live2/play3/1835349795.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX DRAMA (6)
+https://vavoo.to/live2/play3/387588215.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX FAMILIE (6)
+https://vavoo.to/live2/play3/2094158619.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX FANTASY (6)
 https://vavoo.to/live2/play3/3295375770.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX HISTORIE (6)
+https://vavoo.to/live2/play3/4272100834.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX HORROR (6)
+https://vavoo.to/live2/play3/3717819597.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX KARATE (6)
+https://vavoo.to/live2/play3/327889861.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX KOMODIE (6)
+https://vavoo.to/live2/play3/1544513871.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX KRIEGSFILM (6)
+https://vavoo.to/live2/play3/1835191283.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX KRIMI (6)
+https://vavoo.to/live2/play3/3409766912.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX LIEBESFILM (6)
+https://vavoo.to/live2/play3/1940254837.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX MYSTERY (6)
+https://vavoo.to/live2/play3/2981061970.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 1 (6)
 https://vavoo.to/live2/play3/204441399.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 2 (6)
 https://vavoo.to/live2/play3/1267727847.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 3 (6)
 https://vavoo.to/live2/play3/1995428951.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 4 (6)
+https://vavoo.to/live2/play3/3301902407.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 5 (6)
 https://vavoo.to/live2/play3/4189004279.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 6 (6)
 https://vavoo.to/live2/play3/3188677415.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 7 (6)
+https://vavoo.to/live2/play3/2205119127.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX SCI-FI (6)
+https://vavoo.to/live2/play3/4012744482.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX THRILLER (6)
+https://vavoo.to/live2/play3/2552156126.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX WESTERN (6)
+https://vavoo.to/live2/play3/312792041.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/672710480.png" group-title="Germany",SKY BUNDESLIGA (6)
 https://vavoo.to/live2/play3/672710480.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1917998896.png" group-title="Germany",SKY BUNDESLIGA 1 (6)
@@ -6285,8 +6425,6 @@ https://vavoo.to/live2/play3/2390140612.m3u8
 https://vavoo.to/live2/play3/2135045441.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1109531889.png" group-title="Germany",SKY BUNDESLIGA 9 (6)
 https://vavoo.to/live2/play3/1109531889.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/2617029878.png" group-title="Germany",SKY BUNDESLIGA 9 [] (6)
-https://vavoo.to/live2/play3/2617029878.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/6337875.png" group-title="Germany",SKY BUNDESLIGA [] (6)
 https://vavoo.to/live2/play3/6337875.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1398500.png" group-title="Germany",SKY CINEMA +1 (6)
@@ -6313,8 +6451,6 @@ https://vavoo.to/live2/play3/3650034867.m3u8
 https://vavoo.to/live2/play3/631616247.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3836137978.png" group-title="Germany",SKY CINEMA PREMIERE (6)
 https://vavoo.to/live2/play3/3836137978.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/4117277461.png" group-title="Germany",SKY CINEMA PREMIEREN (6)
-https://vavoo.to/live2/play3/4117277461.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2627114955.png" group-title="Germany",SKY CINEMA PREMIEREN +24 (6)
 https://vavoo.to/live2/play3/2627114955.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/805972699.png" group-title="Germany",SKY CINEMA SPECIAL (6)
@@ -6343,16 +6479,22 @@ https://vavoo.to/live2/play3/320196857.m3u8
 https://vavoo.to/live2/play3/3620214137.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1709754729.png" group-title="Germany",SKY SELECT 4 (6)
 https://vavoo.to/live2/play3/1709754729.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3018854180.png" group-title="Germany",SKY SELECT 4 [4K] [] (6)
+https://vavoo.to/live2/play3/3018854180.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1485365465.png" group-title="Germany",SKY SELECT 5 (6)
 https://vavoo.to/live2/play3/1485365465.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1852233377.png" group-title="Germany",SKY SELECT 5 [4K] [] (6)
 https://vavoo.to/live2/play3/1852233377.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/522754569.png" group-title="Germany",SKY SELECT 6 (6)
 https://vavoo.to/live2/play3/522754569.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3551312495.png" group-title="Germany",SKY SELECT 6 [4K] [] (6)
+https://vavoo.to/live2/play3/3551312495.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/575189945.png" group-title="Germany",SKY SELECT 7 (6)
 https://vavoo.to/live2/play3/575189945.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2685936744.png" group-title="Germany",SKY SELECT 8 (6)
 https://vavoo.to/live2/play3/2685936744.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/692762335.png" group-title="Germany",SKY SELECT 8 [4K] [] (6)
+https://vavoo.to/live2/play3/692762335.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2641890776.png" group-title="Germany",SKY SELECT 9 (6)
 https://vavoo.to/live2/play3/2641890776.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY SELECT PREMIERE 10 (6)
@@ -6451,14 +6593,24 @@ https://vavoo.to/live2/play3/2558371138.m3u8
 https://vavoo.to/live2/play3/2382681410.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",STERN FILME 1 (6)
 https://vavoo.to/live2/play3/3288066978.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",STERN FILME 10 (6)
+https://vavoo.to/live2/play3/3592253767.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",STERN FILME 2 (6)
 https://vavoo.to/live2/play3/2220593522.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",STERN FILME 3 (6)
+https://vavoo.to/live2/play3/3107698882.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",STERN FILME 4 (6)
+https://vavoo.to/live2/play3/186344658.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",STERN FILME 5 (6)
 https://vavoo.to/live2/play3/914050402.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",STERN FILME 6 (6)
 https://vavoo.to/live2/play3/1910192050.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",STERN FILME 7 (6)
+https://vavoo.to/live2/play3/1287331330.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",STERN FILME 8 (6)
 https://vavoo.to/live2/play3/3471542739.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",STERN FILME 9 (6)
+https://vavoo.to/live2/play3/4086014051.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1779435258.png" group-title="Germany",STINGRAY CLASSICA (6)
 https://vavoo.to/live2/play3/1779435258.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",STUDIO 47 (6)
@@ -6469,8 +6621,6 @@ https://vavoo.to/live2/play3/2498388166.m3u8
 https://vavoo.to/live2/play3/2623439797.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3399533194.png" group-title="Germany",SWR FERNSEHEN (6)
 https://vavoo.to/live2/play3/3399533194.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/3764999351.png" group-title="Germany",SYFY (6)
-https://vavoo.to/live2/play3/3764999351.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3957687275.png" group-title="Germany",TAGESSCHAU 24 (6)
 https://vavoo.to/live2/play3/3957687275.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",TASTEMADE (6)
@@ -6479,8 +6629,6 @@ https://vavoo.to/live2/play3/3126933663.m3u8
 https://vavoo.to/live2/play3/512135720.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",TELTOWKANAL (6)
 https://vavoo.to/live2/play3/137856411.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",TERRA MATER WILD (PLUTO) (6)
-https://vavoo.to/live2/play3/3268652039.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",TIDE TV (6)
 https://vavoo.to/live2/play3/3149136766.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",TOP FILME (6)
@@ -6555,14 +6703,16 @@ https://vavoo.to/live2/play3/322674957.m3u8
 https://vavoo.to/live2/play3/1457919579.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",ZOEY 101 (6)
 https://vavoo.to/live2/play3/3354510819.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1825493845.png" group-title="Germany",[KINDER] DER KLEINE PRINZ (6)
+https://vavoo.to/live2/play3/1825493845.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2869897012.png" group-title="Germany",[KINDER] HT SPONGEBOB (6)
 https://vavoo.to/live2/play3/2869897012.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3977587401.png" group-title="Germany",[KINDER] PJ MASKS 7/24 (6)
 https://vavoo.to/live2/play3/3977587401.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2316231037.png" group-title="Germany",[KINDER] THE BOSS BABY 7/24 (6)
 https://vavoo.to/live2/play3/2316231037.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/1258356088.png" group-title="Germany",[KINDER] TOM UND JERRY SHOW 7/24 (6)
-https://vavoo.to/live2/play3/1258356088.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1629878879.png" group-title="Albania",24 KITCHEN (6)
+https://vavoo.to/live2/play3/1629878879.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",4+SHQIP (6)
 https://vavoo.to/live2/play3/489423289.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",A2 CNN (6)
@@ -6665,8 +6815,6 @@ https://vavoo.to/live2/play3/2937823354.m3u8
 https://vavoo.to/live2/play3/1684402264.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/538638939.png" group-title="Albania",CINESTAR TV 1 (6)
 https://vavoo.to/live2/play3/538638939.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/1740275851.png" group-title="Albania",CINESTAR TV 2 (6)
-https://vavoo.to/live2/play3/1740275851.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4074461940.png" group-title="Albania",CINESTAR TV ACTION (6)
 https://vavoo.to/live2/play3/4074461940.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/206144248.png" group-title="Albania",CINESTAR TV COMEDY (6)
@@ -6779,6 +6927,8 @@ https://vavoo.to/live2/play3/2187748702.m3u8
 https://vavoo.to/live2/play3/560279489.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",DARK STUPCAT EGJELI (6)
 https://vavoo.to/live2/play3/2879292858.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",DARK STUPCAT SKEÇE (6)
+https://vavoo.to/live2/play3/3944958227.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",DARK TALLAVA (6)
 https://vavoo.to/live2/play3/1612565654.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",DARK UJQIT (6)
@@ -6795,6 +6945,8 @@ https://vavoo.to/live2/play3/3227762500.m3u8
 https://vavoo.to/live2/play3/1754126945.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3712244746.png" group-title="Albania",ELKALEM TV (6)
 https://vavoo.to/live2/play3/3712244746.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2018730890.png" group-title="Albania",ELRODI TV (6)
+https://vavoo.to/live2/play3/2018730890.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",EPISODE (6)
 https://vavoo.to/live2/play3/392821704.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3643756557.png" group-title="Albania",ERA TV (6)
@@ -6839,8 +6991,12 @@ https://vavoo.to/live2/play3/2966983334.m3u8
 https://vavoo.to/live2/play3/2377693974.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",FALCON PREMIUM 4 (6)
 https://vavoo.to/live2/play3/1066952454.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",FALCON PREMIUM 5 (6)
+https://vavoo.to/live2/play3/49827510.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",FALCON PREMIUM 6 (6)
 https://vavoo.to/live2/play3/1163408486.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",FAMILY (6)
+https://vavoo.to/live2/play3/2197921508.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",FASHION TV (6)
 https://vavoo.to/live2/play3/1792604689.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1031300509.png" group-title="Albania",FAST & FUNBOX (6)
@@ -6989,8 +7145,8 @@ https://vavoo.to/live2/play3/1797959203.m3u8
 https://vavoo.to/live2/play3/2055584340.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3335774691.png" group-title="Albania",KLAN NEWS (6)
 https://vavoo.to/live2/play3/3335774691.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/3812096891.png" group-title="Albania",KOHA TV (6)
-https://vavoo.to/live2/play3/3812096891.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2008163874.png" group-title="Albania",KLAN PLUS (6)
+https://vavoo.to/live2/play3/2008163874.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/701897229.png" group-title="Albania",KORCA PLUS (6)
 https://vavoo.to/live2/play3/701897229.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",KS CIFTELIA (6)
@@ -7025,10 +7181,16 @@ https://vavoo.to/live2/play3/3327615067.m3u8
 https://vavoo.to/live2/play3/402448369.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",L-STAR FILM SHQIP (6)
 https://vavoo.to/live2/play3/2275532820.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",L-STAR HALO (6)
+https://vavoo.to/live2/play3/1610390688.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",L-STAR HETUESIA (6)
 https://vavoo.to/live2/play3/505743297.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",L-STAR KIDS (6)
 https://vavoo.to/live2/play3/2883530186.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",L-STAR KRYETARI (6)
+https://vavoo.to/live2/play3/2927216755.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",L-STAR LA CASA DE PAPEL (6)
+https://vavoo.to/live2/play3/3758587271.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",L-STAR MASHA & BEAR (6)
 https://vavoo.to/live2/play3/750742467.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",L-STAR MIXHA BIBE & MARTIN (6)
@@ -7095,8 +7257,6 @@ https://vavoo.to/live2/play3/4104319075.m3u8
 https://vavoo.to/live2/play3/3384990163.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",PREMIERE 4 (6)
 https://vavoo.to/live2/play3/2078410179.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",PREMIERE 5 (6)
-https://vavoo.to/live2/play3/1182936179.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1686084066.png" group-title="Albania",PREMIUM CHANNEL (6)
 https://vavoo.to/live2/play3/1686084066.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/148158826.png" group-title="Albania",PRO 1 (6)
@@ -7165,8 +7325,6 @@ https://vavoo.to/live2/play3/1057992171.m3u8
 https://vavoo.to/live2/play3/2520840326.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1514101999.png" group-title="Albania",SCAN (6)
 https://vavoo.to/live2/play3/1514101999.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/480205731.png" group-title="Albania",SHENJA TV (6)
-https://vavoo.to/live2/play3/480205731.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",SHOTA TV (6)
 https://vavoo.to/live2/play3/1363816986.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",SHQIPONJA TV (6)
@@ -7205,6 +7363,8 @@ https://vavoo.to/live2/play3/1956685508.m3u8
 https://vavoo.to/live2/play3/1237356404.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3389628664.png" group-title="Albania",SUPERSPORT NEWS (6)
 https://vavoo.to/live2/play3/3389628664.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1772402443.png" group-title="Albania",SYRI NEWS (6)
+https://vavoo.to/live2/play3/1772402443.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/934935552.png" group-title="Albania",SYRI TV (6)
 https://vavoo.to/live2/play3/934935552.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/754988265.png" group-title="Albania",SYRI VIZION (6)
@@ -7235,12 +7395,12 @@ https://vavoo.to/live2/play3/3760491023.m3u8
 https://vavoo.to/live2/play3/1110052705.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",TELE ONE EPIK (6)
 https://vavoo.to/live2/play3/2065426600.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",TELE ONE FANTAZI (6)
+https://vavoo.to/live2/play3/885877358.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",TELE ONE GOLD COLLECTION (6)
 https://vavoo.to/live2/play3/1154744575.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",TELE+ CINEMA (6)
 https://vavoo.to/live2/play3/4126749452.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/1996734955.png" group-title="Albania",TELEVIZIJA 5 (6)
-https://vavoo.to/live2/play3/1996734955.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2206998256.png" group-title="Albania",TEMA TV (6)
 https://vavoo.to/live2/play3/2206998256.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2307505356.png" group-title="Albania",TEUTA (6)
@@ -7251,6 +7411,8 @@ https://vavoo.to/live2/play3/3451071129.m3u8
 https://vavoo.to/live2/play3/3409844377.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",TEVE COMEDY (6)
 https://vavoo.to/live2/play3/2226219924.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",TEVE DRAME (6)
+https://vavoo.to/live2/play3/3563142658.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",TEVE FANTASY (6)
 https://vavoo.to/live2/play3/2556634658.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",TEVE SHQIP (6)
@@ -7291,6 +7453,8 @@ https://vavoo.to/live2/play3/1013200858.m3u8
 https://vavoo.to/live2/play3/2030743141.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4057502409.png" group-title="Albania",TV OPOJA (6)
 https://vavoo.to/live2/play3/4057502409.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",TV PRIZRENI (6)
+https://vavoo.to/live2/play3/588488752.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/385767921.png" group-title="Albania",TV SHARRI (6)
 https://vavoo.to/live2/play3/385767921.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3068651168.png" group-title="Albania",TV USKANA (6)
@@ -7377,10 +7541,10 @@ https://vavoo.to/live2/play3/3163924160.m3u8
 https://vavoo.to/live2/play3/2298741299.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",ASSYRIAN GLOBAL NETWORK (AGN TV) (6)
 https://vavoo.to/live2/play3/2912449381.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/2935208758.png" group-title="Arabia",AXN (6)
-https://vavoo.to/live2/play3/2935208758.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",AZAHARES RADIOVISUAL MULTIMEDIA (6)
 https://vavoo.to/live2/play3/3159722484.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1947322074.png" group-title="Arabia",BABY TV (6)
+https://vavoo.to/live2/play3/1947322074.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2486830044.png" group-title="Arabia",BBC EARTH (6)
 https://vavoo.to/live2/play3/2486830044.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",BBC WORLD NEWS (6)
@@ -7525,8 +7689,6 @@ https://vavoo.to/live2/play3/1383842965.m3u8
 https://vavoo.to/live2/play3/4092072306.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3913059095.png" group-title="Arabia",DAAWAH TV (6)
 https://vavoo.to/live2/play3/3913059095.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/3596238778.png" group-title="Arabia",DEPORTV (6)
-https://vavoo.to/live2/play3/3596238778.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2295179035.png" group-title="Arabia",DHE (6)
 https://vavoo.to/live2/play3/2295179035.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/631455647.png" group-title="Arabia",DIRECTV SPORTS (6)
@@ -7759,6 +7921,8 @@ https://vavoo.to/live2/play3/249849128.m3u8
 https://vavoo.to/live2/play3/2724093926.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1401287033.png" group-title="Arabia",TOONCAST (6)
 https://vavoo.to/live2/play3/1401287033.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/437022670.png" group-title="Arabia",TRT ARABI (6)
+https://vavoo.to/live2/play3/437022670.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3966800440.png" group-title="Arabia",TRU TV (6)
 https://vavoo.to/live2/play3/3966800440.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",TV MANA ARGENTINA (6)
@@ -7843,6 +8007,8 @@ https://vavoo.to/live2/play3/490769929.m3u8
 https://vavoo.to/live2/play3/1061880403.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2577793279.png" group-title="Balkans",CBS REALITY (6)
 https://vavoo.to/live2/play3/2577793279.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2776919121.png" group-title="Balkans",CINEMAX (6)
+https://vavoo.to/live2/play3/2776919121.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/858985043.png" group-title="Balkans",CINEMAX 2 (6)
 https://vavoo.to/live2/play3/858985043.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1868891312.png" group-title="Balkans",CINESTAR FANTASY (6)
@@ -7903,8 +8069,6 @@ https://vavoo.to/live2/play3/3266925915.m3u8
 https://vavoo.to/live2/play3/4292443371.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1308205307.png" group-title="Balkans",EURO CINEMA 4 (6)
 https://vavoo.to/live2/play3/1308205307.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/2708573167.png" group-title="Balkans",EUROSPORT 1 (6)
-https://vavoo.to/live2/play3/2708573167.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3872518463.png" group-title="Balkans",EUROSPORT 2 (6)
 https://vavoo.to/live2/play3/3872518463.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/448416118.png" group-title="Balkans",EUROSPORT 2 (BACKUP) (6)
@@ -7947,6 +8111,8 @@ https://vavoo.to/live2/play3/655636936.m3u8
 https://vavoo.to/live2/play3/1149646634.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/54647568.png" group-title="Balkans",HISTORY 2 (6)
 https://vavoo.to/live2/play3/54647568.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1129689780.png" group-title="Balkans",HIT TELEVIZIJA (6)
+https://vavoo.to/live2/play3/1129689780.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/961900723.png" group-title="Balkans",INVESTIGATION DISCOVERY (6)
 https://vavoo.to/live2/play3/961900723.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2367813923.png" group-title="Balkans",IZVORNA TV (6)
@@ -7975,6 +8141,8 @@ https://vavoo.to/live2/play3/822301016.m3u8
 https://vavoo.to/live2/play3/3191034074.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",NEON TV (6)
 https://vavoo.to/live2/play3/947374497.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1086525812.png" group-title="Balkans",NICK JR (6)
+https://vavoo.to/live2/play3/1086525812.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3688484569.png" group-title="Balkans",NICKELODEON (6)
 https://vavoo.to/live2/play3/3688484569.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4232673163.png" group-title="Balkans",NOVA BH (6)
@@ -8015,6 +8183,8 @@ https://vavoo.to/live2/play3/928517033.m3u8
 https://vavoo.to/live2/play3/4006016167.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",RTV BUGOJNO (6)
 https://vavoo.to/live2/play3/4020822681.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2808803907.png" group-title="Balkans",RTV CAZIN (6)
+https://vavoo.to/live2/play3/2808803907.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/546689730.png" group-title="Balkans",RTV HERCEG BOSNE (6)
 https://vavoo.to/live2/play3/546689730.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1519487790.png" group-title="Balkans",RTV SANA (6)
@@ -8065,6 +8235,8 @@ https://vavoo.to/live2/play3/2292980296.m3u8
 https://vavoo.to/live2/play3/2096109922.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Balkans",TV 5 ISLAM (6)
 https://vavoo.to/live2/play3/2975285148.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3793523698.png" group-title="Balkans",TV BANOVINA (6)
+https://vavoo.to/live2/play3/3793523698.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3842226300.png" group-title="Balkans",TV GLAS DRINE (6)
 https://vavoo.to/live2/play3/3842226300.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1381838146.png" group-title="Balkans",TV ISTOK (6)
@@ -8113,8 +8285,6 @@ https://vavoo.to/live2/play3/1918230108.m3u8
 https://vavoo.to/live2/play3/3418660084.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4137989444.png" group-title="Bulgaria",BNT 3 (6)
 https://vavoo.to/live2/play3/4137989444.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/3692483927.png" group-title="Bulgaria",BOX TV (6)
-https://vavoo.to/live2/play3/3692483927.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bulgaria",BTV STORY (6)
 https://vavoo.to/live2/play3/3679243852.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2032068489.png" group-title="Bulgaria",BULGARIA 24 (6)
@@ -8149,8 +8319,6 @@ https://vavoo.to/live2/play3/2966476250.m3u8
 https://vavoo.to/live2/play3/2986022367.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3753516110.png" group-title="Bulgaria",EPIC DRAMA (6)
 https://vavoo.to/live2/play3/3753516110.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bulgaria",EURONEWS (6)
-https://vavoo.to/live2/play3/1926603815.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/13268090.png" group-title="Bulgaria",EUROSPORT 2 (6)
 https://vavoo.to/live2/play3/13268090.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3250423496.png" group-title="Bulgaria",EVROKOM (6)
@@ -8171,6 +8339,8 @@ https://vavoo.to/live2/play3/3692629984.m3u8
 https://vavoo.to/live2/play3/3529501355.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4269935167.png" group-title="Bulgaria",HBO (6)
 https://vavoo.to/live2/play3/4269935167.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1822214929.png" group-title="Bulgaria",HBO 2 (6)
+https://vavoo.to/live2/play3/1822214929.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1375527585.png" group-title="Bulgaria",HBO 3 (6)
 https://vavoo.to/live2/play3/1375527585.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1975892045.png" group-title="Bulgaria",HGTV (6)
@@ -8203,6 +8373,8 @@ https://vavoo.to/live2/play3/1602513781.m3u8
 https://vavoo.to/live2/play3/2084100828.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3764864653.png" group-title="Bulgaria",MTV 00S (6)
 https://vavoo.to/live2/play3/3764864653.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3093560896.png" group-title="Bulgaria",NAT GEO WILD (6)
+https://vavoo.to/live2/play3/3093560896.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2509215728.png" group-title="Bulgaria",NOSTALGIA (6)
 https://vavoo.to/live2/play3/2509215728.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2550224292.png" group-title="Bulgaria",NOVA NEWS (6)
@@ -8217,6 +8389,8 @@ https://vavoo.to/live2/play3/640626773.m3u8
 https://vavoo.to/live2/play3/2169709312.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/927756604.png" group-title="Bulgaria",RING (6)
 https://vavoo.to/live2/play3/927756604.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/212348644.png" group-title="Bulgaria",ROMA TV (6)
+https://vavoo.to/live2/play3/212348644.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3630894583.png" group-title="Bulgaria",SKAT (СКАТ) (6)
 https://vavoo.to/live2/play3/3630894583.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1242163609.png" group-title="Bulgaria",STAR CRIME (6)
@@ -8241,16 +8415,18 @@ https://vavoo.to/live2/play3/3938292130.m3u8
 https://vavoo.to/live2/play3/235695536.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/866601019.png" group-title="Bulgaria",VIASAT KINO (6)
 https://vavoo.to/live2/play3/866601019.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/3995006118.png" group-title="Bulgaria",VIASAT NATURE (6)
-https://vavoo.to/live2/play3/3995006118.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3772974425.png" group-title="Bulgaria",WNESS TV (6)
 https://vavoo.to/live2/play3/3772974425.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1386348539.png" group-title="Bulgaria",WORLD FASHION CHANNEL (6)
 https://vavoo.to/live2/play3/1386348539.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1563013817.png" group-title="Croatia",24 KITCHEN (6)
 https://vavoo.to/live2/play3/1563013817.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/865384730.png" group-title="Croatia",ALJAZEERA BALKANS (6)
+https://vavoo.to/live2/play3/865384730.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/119274728.png" group-title="Croatia",AMC (6)
 https://vavoo.to/live2/play3/119274728.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2781367833.png" group-title="Croatia",ANIMAL PLANET (6)
+https://vavoo.to/live2/play3/2781367833.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2520618322.png" group-title="Croatia",ARENA SPORT 1 (6)
 https://vavoo.to/live2/play3/2520618322.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1811236133.png" group-title="Croatia",ARENA SPORT 10 (6)
@@ -8271,6 +8447,8 @@ https://vavoo.to/live2/play3/427647218.m3u8
 https://vavoo.to/live2/play3/2603480867.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2790121107.png" group-title="Croatia",ARENA SPORT 9 (6)
 https://vavoo.to/live2/play3/2790121107.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/717801755.png" group-title="Croatia",AURORA TV (6)
+https://vavoo.to/live2/play3/717801755.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2895162225.png" group-title="Croatia",AXN (6)
 https://vavoo.to/live2/play3/2895162225.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3438430055.png" group-title="Croatia",AXN SPIN (6)
@@ -8287,6 +8465,8 @@ https://vavoo.to/live2/play3/2874980355.m3u8
 https://vavoo.to/live2/play3/3160661843.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4223903107.png" group-title="Croatia",CINESTAR TV 2 (6)
 https://vavoo.to/live2/play3/4223903107.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3549681904.png" group-title="Croatia",CINESTAR TV ACTION (6)
+https://vavoo.to/live2/play3/3549681904.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/755040508.png" group-title="Croatia",CINESTAR TV COMEDY (6)
 https://vavoo.to/live2/play3/755040508.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2277793336.png" group-title="Croatia",CINESTAR TV PREMIERE 1 (6)
@@ -8501,8 +8681,6 @@ https://vavoo.to/live2/play3/2290952272.m3u8
 https://vavoo.to/live2/play3/2522459910.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 7 (6)
 https://vavoo.to/live2/play3/2872673974.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 8 (6)
-https://vavoo.to/live2/play3/694751591.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2309251906.png" group-title="France",ANIMAUX (6)
 https://vavoo.to/live2/play3/2309251906.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1666352419.png" group-title="France",ARTE (6)
@@ -8647,6 +8825,8 @@ https://vavoo.to/live2/play3/89025187.m3u8
 https://vavoo.to/live2/play3/1122898035.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",CANAL+ LIVE 13 (6)
 https://vavoo.to/live2/play3/2140027331.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",CANAL+ LIVE 14 (6)
+https://vavoo.to/live2/play3/3450791379.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",CANAL+ LIVE 15 (6)
 https://vavoo.to/live2/play3/4040084579.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",CANAL+ LIVE 16 (6)
@@ -8761,8 +8941,6 @@ https://vavoo.to/live2/play3/404890073.m3u8
 https://vavoo.to/live2/play3/1790602638.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3637667969.png" group-title="France",EQUIDIA PRO (6)
 https://vavoo.to/live2/play3/3637667969.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/288715549.png" group-title="France",EURO CHANNEL (6)
-https://vavoo.to/live2/play3/288715549.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2551109620.png" group-title="France",EURONEWS (6)
 https://vavoo.to/live2/play3/2551109620.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",EUROPE 2 (6)
@@ -8773,16 +8951,18 @@ https://vavoo.to/live2/play3/3719734336.m3u8
 https://vavoo.to/live2/play3/859197953.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1322028385.png" group-title="France",FASHION TV FASHION MAGAZINES (6)
 https://vavoo.to/live2/play3/1322028385.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",FASHION TV PARIS FASHION NEWS (6)
-https://vavoo.to/live2/play3/3063169030.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FASHION TV SINGAPORE PHOTOSHOOTS (6)
 https://vavoo.to/live2/play3/2680281452.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",FILMRISE DEGRASSI LA NOUVELLE GÉNÉRATION (6)
-https://vavoo.to/live2/play3/2993145353.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",FASHION TV TOKYO FASHION FILMS (6)
+https://vavoo.to/live2/play3/1079815511.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",FILMRISE BINGE WATCH FRANCE (6)
+https://vavoo.to/live2/play3/2665669754.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FILMRISE LES ROUTES DU PARADIS (6)
 https://vavoo.to/live2/play3/1059112849.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FILMRISE SÉRIES FRANCE (6)
 https://vavoo.to/live2/play3/4257492120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",FILMRISE Z NATION (6)
+https://vavoo.to/live2/play3/1270042615.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1975426357.png" group-title="France",FOOT+ (6)
 https://vavoo.to/live2/play3/1975426357.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/876169338.png" group-title="France",FRANCE 2 (6)
@@ -8801,8 +8981,6 @@ https://vavoo.to/live2/play3/1120097184.m3u8
 https://vavoo.to/live2/play3/751008426.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2214163055.png" group-title="France",GAME ONE (6)
 https://vavoo.to/live2/play3/2214163055.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",GAME ONE +1 (6)
-https://vavoo.to/live2/play3/3522100021.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3958743394.png" group-title="France",GENERATIONS TV (6)
 https://vavoo.to/live2/play3/3958743394.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/489894011.png" group-title="France",GOLF+ (6)
@@ -8817,8 +8995,6 @@ https://vavoo.to/live2/play3/2988514003.m3u8
 https://vavoo.to/live2/play3/985897714.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3150455692.png" group-title="France",I24 NEWS (6)
 https://vavoo.to/live2/play3/3150455692.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",ICARLY TV (6)
-https://vavoo.to/live2/play3/4023351773.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2685834327.png" group-title="France",ILTV (6)
 https://vavoo.to/live2/play3/2685834327.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",IMEARTH (6)
@@ -8897,8 +9073,6 @@ https://vavoo.to/live2/play3/3694967117.m3u8
 https://vavoo.to/live2/play3/3767488192.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",MOSELLE TV (6)
 https://vavoo.to/live2/play3/3484599180.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/1418121777.png" group-title="France",MOTORVISION TV (6)
-https://vavoo.to/live2/play3/1418121777.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",MOTUS TV (6)
 https://vavoo.to/live2/play3/2532261771.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3739767701.png" group-title="France",MOUV (6)
@@ -8921,12 +9095,8 @@ https://vavoo.to/live2/play3/1884259251.m3u8
 https://vavoo.to/live2/play3/938473827.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2736388639.png" group-title="France",MUSEUM (6)
 https://vavoo.to/live2/play3/2736388639.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/2233165627.png" group-title="France",MYZEN TV (6)
-https://vavoo.to/live2/play3/2233165627.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1341169782.png" group-title="France",NAT GEO (6)
 https://vavoo.to/live2/play3/1341169782.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/4163250572.png" group-title="France",NAT GEO WILD (6)
-https://vavoo.to/live2/play3/4163250572.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3239779986.png" group-title="France",NATURE TIME (6)
 https://vavoo.to/live2/play3/3239779986.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/957034858.png" group-title="France",NAUTICAL CHANNEL (6)
@@ -8939,8 +9109,6 @@ https://vavoo.to/live2/play3/2786840044.m3u8
 https://vavoo.to/live2/play3/2600378206.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3401954916.png" group-title="France",NICKELODEON TEEN (6)
 https://vavoo.to/live2/play3/3401954916.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/1562445425.png" group-title="France",NOLLYWOOD TV (6)
-https://vavoo.to/live2/play3/1562445425.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1873582200.png" group-title="France",NOTELE (6)
 https://vavoo.to/live2/play3/1873582200.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1626033852.png" group-title="France",NOVELAS TV (6)
@@ -9031,8 +9199,6 @@ https://vavoo.to/live2/play3/1484327785.m3u8
 https://vavoo.to/live2/play3/1517845231.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",TF 1 ULTRA 4K (6)
 https://vavoo.to/live2/play3/3967134627.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/1752232020.png" group-title="France",TFX (6)
-https://vavoo.to/live2/play3/1752232020.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3472686258.png" group-title="France",TIJI (6)
 https://vavoo.to/live2/play3/3472686258.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2248897642.png" group-title="France",TIPIK (6)
@@ -9057,8 +9223,6 @@ https://vavoo.to/live2/play3/2320044455.m3u8
 https://vavoo.to/live2/play3/1478717698.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4079206372.png" group-title="France",TV PITCHOUN (6)
 https://vavoo.to/live2/play3/4079206372.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/3769189460.png" group-title="France",TV5MONDE EUROPE (6)
-https://vavoo.to/live2/play3/3769189460.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1827127908.png" group-title="France",TV5MONDE FRANCE BELGIQUE SUISSE MONACO (6)
 https://vavoo.to/live2/play3/1827127908.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4275574479.png" group-title="France",TV5MONDE INFO (6)
@@ -9089,8 +9253,6 @@ https://vavoo.to/live2/play3/3059360905.m3u8
 https://vavoo.to/live2/play3/488364629.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/295934815.png" group-title="France",WEO TV (6)
 https://vavoo.to/live2/play3/295934815.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/3463460292.png" group-title="France",WILDSIDE TV (6)
-https://vavoo.to/live2/play3/3463460292.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",XILAM TV (6)
 https://vavoo.to/live2/play3/1183161948.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",ZYLO CINE FRIKI (6)
@@ -9251,12 +9413,16 @@ https://vavoo.to/live2/play3/32417864.m3u8
 https://vavoo.to/live2/play3/3439223610.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2820683351.png" group-title="Italy",FOOD NETWORK (6)
 https://vavoo.to/live2/play3/2820683351.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1995860185.png" group-title="Italy",FRISBEE (6)
+https://vavoo.to/live2/play3/1995860185.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2481284739.png" group-title="Italy",GAMBERO ROSSO (6)
 https://vavoo.to/live2/play3/2481284739.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2373936189.png" group-title="Italy",GIALLO (6)
 https://vavoo.to/live2/play3/2373936189.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",GLOBUS TELEVISION (6)
 https://vavoo.to/live2/play3/2116902817.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2854396316.png" group-title="Italy",GOLD TV (6)
+https://vavoo.to/live2/play3/2854396316.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/942153014.png" group-title="Italy",GRANDUCATO (6)
 https://vavoo.to/live2/play3/942153014.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",HGTV (6)
@@ -9323,6 +9489,8 @@ https://vavoo.to/live2/play3/1735702308.m3u8
 https://vavoo.to/live2/play3/3428501495.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/380958472.png" group-title="Italy",NICK JR (6)
 https://vavoo.to/live2/play3/380958472.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3039389215.png" group-title="Italy",NICKELODEON (6)
+https://vavoo.to/live2/play3/3039389215.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/867216452.png" group-title="Italy",NOVE (6)
 https://vavoo.to/live2/play3/867216452.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/68102734.png" group-title="Italy",OL3 RADIO (6)
@@ -9853,8 +10021,6 @@ https://vavoo.to/live2/play3/2900932425.m3u8
 https://vavoo.to/live2/play3/2744749097.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3609554286.png" group-title="Netherlands",RTV RIJNSTREEK TV (6)
 https://vavoo.to/live2/play3/3609554286.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherlands",RTV RIOBAMBA (6)
-https://vavoo.to/live2/play3/105866757.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2400591548.png" group-title="Netherlands",RTV SLINGELAND (6)
 https://vavoo.to/live2/play3/2400591548.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2796210402.png" group-title="Netherlands",RTV UTRECHT (6)
@@ -9985,6 +10151,8 @@ https://vavoo.to/live2/play3/870571372.m3u8
 https://vavoo.to/live2/play3/3422335766.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3503957951.png" group-title="Poland",BABY TV (6)
 https://vavoo.to/live2/play3/3503957951.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3946902235.png" group-title="Poland",BBC BRIT POLSKA (6)
+https://vavoo.to/live2/play3/3946902235.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1539172891.png" group-title="Poland",BBC EARTH (6)
 https://vavoo.to/live2/play3/1539172891.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/163612496.png" group-title="Poland",BBC FIRST (6)
@@ -10059,6 +10227,8 @@ https://vavoo.to/live2/play3/3453122284.m3u8
 https://vavoo.to/live2/play3/3663650028.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/81805306.png" group-title="Poland",DISCO POLO MUSIC (6)
 https://vavoo.to/live2/play3/81805306.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3481646151.png" group-title="Poland",DISCOVERY HISTORY (6)
+https://vavoo.to/live2/play3/3481646151.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/771924147.png" group-title="Poland",DISCOVERY LIFE POLSKA (6)
 https://vavoo.to/live2/play3/771924147.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1460460808.png" group-title="Poland",DISCOVERY SCIENCE POLSKA (6)
@@ -10081,8 +10251,8 @@ https://vavoo.to/live2/play3/2187318934.m3u8
 https://vavoo.to/live2/play3/813632134.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/711982265.png" group-title="Poland",EPIC DRAMA (6)
 https://vavoo.to/live2/play3/711982265.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/3645374252.png" group-title="Poland",ESKA TV (6)
-https://vavoo.to/live2/play3/3645374252.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1755222109.png" group-title="Poland",ESKA ROCK TV (6)
+https://vavoo.to/live2/play3/1755222109.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/330744242.png" group-title="Poland",ESKA TV EXTRA (6)
 https://vavoo.to/live2/play3/330744242.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1682357493.png" group-title="Poland",EUROSPORT 1 (6)
@@ -10121,8 +10291,12 @@ https://vavoo.to/live2/play3/3364167311.m3u8
 https://vavoo.to/live2/play3/686503148.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/132683279.png" group-title="Poland",HISTORY 2 (6)
 https://vavoo.to/live2/play3/132683279.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3625034813.png" group-title="Poland",HOME TV (6)
+https://vavoo.to/live2/play3/3625034813.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2790585591.png" group-title="Poland",INVESTIGATION DISCOVERY (6)
 https://vavoo.to/live2/play3/2790585591.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2371007314.png" group-title="Poland",JIMJAM POLSAT (6)
+https://vavoo.to/live2/play3/2371007314.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3145212115.png" group-title="Poland",KINO POLSKA (6)
 https://vavoo.to/live2/play3/3145212115.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2554778478.png" group-title="Poland",KINO POLSKA MUZYKA (6)
@@ -10139,6 +10313,8 @@ https://vavoo.to/live2/play3/1117825618.m3u8
 https://vavoo.to/live2/play3/330534602.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4241317601.png" group-title="Poland",MTV 00S (6)
 https://vavoo.to/live2/play3/4241317601.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1426086923.png" group-title="Poland",MTV POLSKA (6)
+https://vavoo.to/live2/play3/1426086923.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1567511198.png" group-title="Poland",NAT GEO (6)
 https://vavoo.to/live2/play3/1567511198.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3490886422.png" group-title="Poland",NAT GEO PEOPLE (6)
@@ -10151,6 +10327,8 @@ https://vavoo.to/live2/play3/518977987.m3u8
 https://vavoo.to/live2/play3/2228696585.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3208882953.png" group-title="Poland",NOVELA TV (6)
 https://vavoo.to/live2/play3/3208882953.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1939536799.png" group-title="Poland",NOVELAS+ (6)
+https://vavoo.to/live2/play3/1939536799.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2365630571.png" group-title="Poland",NOWA TV (6)
 https://vavoo.to/live2/play3/2365630571.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4236817408.png" group-title="Poland",NUTA GOLD (6)
@@ -10229,6 +10407,8 @@ https://vavoo.to/live2/play3/4113862971.m3u8
 https://vavoo.to/live2/play3/52562107.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2289661580.png" group-title="Poland",STUDIOMED TV (6)
 https://vavoo.to/live2/play3/2289661580.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2713738146.png" group-title="Poland",SUNDANCE TV (6)
+https://vavoo.to/live2/play3/2713738146.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3067191309.png" group-title="Poland",SUPER POLSAT (6)
 https://vavoo.to/live2/play3/3067191309.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2663910341.png" group-title="Poland",TBN (6)
@@ -10327,8 +10507,12 @@ https://vavoo.to/live2/play3/159853717.m3u8
 https://vavoo.to/live2/play3/612328203.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1843300747.png" group-title="Poland",TVP SPORT (6)
 https://vavoo.to/live2/play3/1843300747.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2667518075.png" group-title="Poland",TVS (6)
+https://vavoo.to/live2/play3/2667518075.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2163207394.png" group-title="Poland",TVT ZGORZELEC (6)
 https://vavoo.to/live2/play3/2163207394.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3187437518.png" group-title="Poland",VIASAT EXPLORE (6)
+https://vavoo.to/live2/play3/3187437518.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",VIASAT EXPLORE CLASSIC (6)
 https://vavoo.to/live2/play3/729828219.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2378671303.png" group-title="Poland",VIASAT HISTORY (6)
@@ -10339,6 +10523,8 @@ https://vavoo.to/live2/play3/4132586673.m3u8
 https://vavoo.to/live2/play3/2345647838.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1822618245.png" group-title="Poland",W POLSCE (6)
 https://vavoo.to/live2/play3/1822618245.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1934548163.png" group-title="Poland",WARNER TV (6)
+https://vavoo.to/live2/play3/1934548163.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2319585201.png" group-title="Poland",WATER PLANET (6)
 https://vavoo.to/live2/play3/2319585201.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3578999179.png" group-title="Poland",WP TV (6)
@@ -10451,6 +10637,8 @@ https://vavoo.to/live2/play3/3654612487.m3u8
 https://vavoo.to/live2/play3/2658438359.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3688799089.png" group-title="Portugal",FASHIONTV (6)
 https://vavoo.to/live2/play3/3688799089.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2395509066.png" group-title="Portugal",FATIMA TV (6)
+https://vavoo.to/live2/play3/2395509066.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",FIREMAN SAM (6)
 https://vavoo.to/live2/play3/2568401236.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1960865357.png" group-title="Portugal",FOOD NETWORK (6)
@@ -10507,6 +10695,8 @@ https://vavoo.to/live2/play3/278568941.m3u8
 https://vavoo.to/live2/play3/2121846219.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",NETFLIX (6)
 https://vavoo.to/live2/play3/4281516173.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal",NEWS NOW (6)
+https://vavoo.to/live2/play3/129116940.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1165966812.png" group-title="Portugal",NICK JUNIOR (6)
 https://vavoo.to/live2/play3/1165966812.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2742858545.png" group-title="Portugal",NICKELODEON (6)
@@ -10661,6 +10851,8 @@ https://vavoo.to/live2/play3/2801370243.m3u8
 https://vavoo.to/live2/play3/3521839803.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",8 LA MARINA TV (6)
 https://vavoo.to/live2/play3/2533082131.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2504628740.png" group-title="Spain",A PUNT (6)
+https://vavoo.to/live2/play3/2504628740.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3126618519.png" group-title="Spain",A&E (6)
 https://vavoo.to/live2/play3/3126618519.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3892867833.png" group-title="Spain",ACTIVA TV (6)
@@ -10689,6 +10881,8 @@ https://vavoo.to/live2/play3/2493319111.m3u8
 https://vavoo.to/live2/play3/3312673778.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2697778342.png" group-title="Spain",BARCA TV (6)
 https://vavoo.to/live2/play3/2697778342.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/63505688.png" group-title="Spain",BBC TOP GEAR (6)
+https://vavoo.to/live2/play3/63505688.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3580225131.png" group-title="Spain",BEIN SPORTS N (6)
 https://vavoo.to/live2/play3/3580225131.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/979824657.png" group-title="Spain",BEIN SPORTS XTRA Ñ (6)
@@ -10791,8 +10985,6 @@ https://vavoo.to/live2/play3/1205331668.m3u8
 https://vavoo.to/live2/play3/4257164702.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1934981639.png" group-title="Spain",DMAX (6)
 https://vavoo.to/live2/play3/1934981639.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/3362559361.png" group-title="Spain",DREAMWORKS TV (6)
-https://vavoo.to/live2/play3/3362559361.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4255133325.png" group-title="Spain",DW ESPAÑOL (6)
 https://vavoo.to/live2/play3/4255133325.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1710359793.png" group-title="Spain",EL PINGUINO TV (6)
@@ -11051,6 +11243,8 @@ https://vavoo.to/live2/play3/3195910351.m3u8
 https://vavoo.to/live2/play3/3520323292.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3820420855.png" group-title="Turkey",BABY TV (6)
 https://vavoo.to/live2/play3/3820420855.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2618455562.png" group-title="Turkey",BBC EARTH (6)
+https://vavoo.to/live2/play3/2618455562.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2930746102.png" group-title="Turkey",BEIN BOX OFFICE 1 (6)
 https://vavoo.to/live2/play3/2930746102.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3910129702.png" group-title="Turkey",BEIN BOX OFFICE 2 (6)
@@ -11069,6 +11263,8 @@ https://vavoo.to/live2/play3/2617318386.m3u8
 https://vavoo.to/live2/play3/2485199152.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/942987224.png" group-title="Turkey",BEIN MOVIES PREMIERE (6)
 https://vavoo.to/live2/play3/942987224.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2244069093.png" group-title="Turkey",BEIN MOVIES PREMIERE 2 (6)
+https://vavoo.to/live2/play3/2244069093.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2500913164.png" group-title="Turkey",BEIN MOVIES STARS (6)
 https://vavoo.to/live2/play3/2500913164.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3390575948.png" group-title="Turkey",BEIN MOVIES TURK (6)
@@ -11139,10 +11335,14 @@ https://vavoo.to/live2/play3/1832075215.m3u8
 https://vavoo.to/live2/play3/4022359276.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1072972009.png" group-title="Turkey",DIM TV (6)
 https://vavoo.to/live2/play3/1072972009.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1013220447.png" group-title="Turkey",DISCOVERY SCIENCE (6)
+https://vavoo.to/live2/play3/1013220447.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3624002307.png" group-title="Turkey",DISCOVERY WORLD (6)
 https://vavoo.to/live2/play3/3624002307.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2131958841.png" group-title="Turkey",DIYANET TV (6)
 https://vavoo.to/live2/play3/2131958841.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey",DIYAR TV (6)
+https://vavoo.to/live2/play3/4252763849.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1165201807.png" group-title="Turkey",DIZISMART MAX (6)
 https://vavoo.to/live2/play3/1165201807.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1195429280.png" group-title="Turkey",DIZISMART PREMIUM (6)
@@ -11201,6 +11401,8 @@ https://vavoo.to/live2/play3/3806979011.m3u8
 https://vavoo.to/live2/play3/4253863829.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/145391758.png" group-title="Turkey",FOX (6)
 https://vavoo.to/live2/play3/145391758.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/3821433649.png" group-title="Turkey",FX (6)
+https://vavoo.to/live2/play3/3821433649.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2577534278.png" group-title="Turkey",GRT TV (6)
 https://vavoo.to/live2/play3/2577534278.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3302625312.png" group-title="Turkey",GUNEYDOGU TV (6)
@@ -11217,6 +11419,8 @@ https://vavoo.to/live2/play3/2402772380.m3u8
 https://vavoo.to/live2/play3/4148513719.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4223430509.png" group-title="Turkey",HRT AKDENIZ TV (6)
 https://vavoo.to/live2/play3/4223430509.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1602719314.png" group-title="Turkey",HUNAT TV (6)
+https://vavoo.to/live2/play3/1602719314.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2488859400.png" group-title="Turkey",ICEL TV (6)
 https://vavoo.to/live2/play3/2488859400.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1372455233.png" group-title="Turkey",INVESTIGATION DISCOVERY (6)
@@ -11277,6 +11481,8 @@ https://vavoo.to/live2/play3/862610701.m3u8
 https://vavoo.to/live2/play3/578380861.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1047804470.png" group-title="Turkey",KOZA TV (6)
 https://vavoo.to/live2/play3/1047804470.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1505032467.png" group-title="Turkey",KRAL TV (6)
+https://vavoo.to/live2/play3/1505032467.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/331685130.png" group-title="Turkey",KRT (6)
 https://vavoo.to/live2/play3/331685130.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3035951797.png" group-title="Turkey",KUDÜS TV (6)
@@ -11289,8 +11495,6 @@ https://vavoo.to/live2/play3/703698868.m3u8
 https://vavoo.to/live2/play3/3572490349.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1865892469.png" group-title="Turkey",LINE TV (6)
 https://vavoo.to/live2/play3/1865892469.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/2593800839.png" group-title="Turkey",LOVE NATURE (6)
-https://vavoo.to/live2/play3/2593800839.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/550515719.png" group-title="Turkey",LUYS TV (6)
 https://vavoo.to/live2/play3/550515719.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1088149850.png" group-title="Turkey",LÂLEGÜL TV (6)
@@ -11339,6 +11543,8 @@ https://vavoo.to/live2/play3/1337239933.m3u8
 https://vavoo.to/live2/play3/3719397522.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",MUSLUM GURSES (6)
 https://vavoo.to/live2/play3/1166494645.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1845660630.png" group-title="Turkey",NAT GEO (6)
+https://vavoo.to/live2/play3/1845660630.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3320654968.png" group-title="Turkey",NAT GEO WILD (6)
 https://vavoo.to/live2/play3/3320654968.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/4247542706.png" group-title="Turkey",NBA TV (6)
@@ -11477,6 +11683,8 @@ https://vavoo.to/live2/play3/1040706695.m3u8
 https://vavoo.to/live2/play3/3317656516.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/691149597.png" group-title="Turkey",TRT AVAZ (6)
 https://vavoo.to/live2/play3/691149597.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/599757405.png" group-title="Turkey",TRT BELGESEL (6)
+https://vavoo.to/live2/play3/599757405.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/685794830.png" group-title="Turkey",TRT COCUK (6)
 https://vavoo.to/live2/play3/685794830.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1101849390.png" group-title="Turkey",TRT DIYANET COCUK (6)
@@ -11561,24 +11769,76 @@ https://vavoo.to/live2/play3/3228877884.m3u8
 https://vavoo.to/live2/play3/2746922057.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",AMAZON PRIME HD (1)
 https://vavoo.to/live2/play3/3648815838.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",ANIMAL PLANET HD (1)
-https://vavoo.to/live2/play3/2440347370.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",ARD ALPHA (1)
 https://vavoo.to/live2/play3/2330342976.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",ARTE (1)
 https://vavoo.to/live2/play3/2263708799.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",AUTO MOTO SPORT HD (1)
 https://vavoo.to/live2/play3/777757543.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",AUTO MOTOR SPORT HD (1)
-https://vavoo.to/live2/play3/2076609123.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",AXN HD (1)
 https://vavoo.to/live2/play3/3391115865.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",BIBELTV HD (1)
 https://vavoo.to/live2/play3/2227354543.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV 4K ABENTEUER (1)
+https://vavoo.to/live2/play3/3609692090.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV 4K ACTION (1)
+https://vavoo.to/live2/play3/3241315611.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV 4K BOLLYWOOD (1)
+https://vavoo.to/live2/play3/3384694759.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV 4K DRAMA (1)
+https://vavoo.to/live2/play3/3938261779.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV 4K FAMILIE (1)
+https://vavoo.to/live2/play3/517883717.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV 4K FANTASY (1)
+https://vavoo.to/live2/play3/2791794116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV 4K HORROR (1)
+https://vavoo.to/live2/play3/3719687925.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV 4K KOM DIE (1)
+https://vavoo.to/live2/play3/935907078.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV 4K KRIMI (1)
+https://vavoo.to/live2/play3/916181348.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV 4K LIEBESFILM (1)
+https://vavoo.to/live2/play3/3489538564.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV 4K MYSTERY (1)
+https://vavoo.to/live2/play3/3550703884.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV 4K SCI-FI (1)
+https://vavoo.to/live2/play3/4009827610.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV 4K THRILLER (1)
 https://vavoo.to/live2/play3/1587625851.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV ABENTEUER ʜᴅ (1)
+https://vavoo.to/live2/play3/2551196858.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV ACTION 2 ʜᴅ (1)
+https://vavoo.to/live2/play3/1135050852.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV ACTION 3 ʜᴅ (1)
+https://vavoo.to/live2/play3/2183749540.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV ACTION ʜᴅ (1)
+https://vavoo.to/live2/play3/1289064117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV BOLLYWOOD ʜᴅ (1)
+https://vavoo.to/live2/play3/1996843166.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV DRAMA 1 ʜᴅ (1)
+https://vavoo.to/live2/play3/3911953199.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV FAMILIE 1 ʜᴅ (1)
+https://vavoo.to/live2/play3/1335837286.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV FAMILIE 2 ʜᴅ (1)
+https://vavoo.to/live2/play3/3598525543.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV FANTASY ʜᴅ (1)
+https://vavoo.to/live2/play3/3612841292.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV HISTORIE ʜᴅ (1)
+https://vavoo.to/live2/play3/2151832622.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV KOMODIE 1 ʜᴅ (1)
+https://vavoo.to/live2/play3/4253115827.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV KRIEGSFILM ʜᴅ (1)
+https://vavoo.to/live2/play3/1162232969.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV KRIMI 1 ʜᴅ (1)
 https://vavoo.to/live2/play3/3122890512.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV MARVEL ʜᴅ (1)
+https://vavoo.to/live2/play3/2594145557.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV MYSTERY 1 ʜᴅ (1)
+https://vavoo.to/live2/play3/348600765.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV SCIENCE-FICTION ʜᴅ (1)
+https://vavoo.to/live2/play3/238647737.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",BLUETV THRILLER 1 ʜᴅ (1)
+https://vavoo.to/live2/play3/1306153636.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",BOOMERANG (1)
 https://vavoo.to/live2/play3/248401354.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",BOOMERANG (BACKUP) (1)
@@ -11593,56 +11853,24 @@ https://vavoo.to/live2/play3/1172734405.m3u8
 https://vavoo.to/live2/play3/553970234.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",CITY TV (1)
 https://vavoo.to/live2/play3/24744607.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",COMEDY CENTRAL (1)
-https://vavoo.to/live2/play3/373766808.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",CLASSICA HD (1)
+https://vavoo.to/live2/play3/1473461255.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",CRIME + INVESTIGATION HD+ (1)
 https://vavoo.to/live2/play3/1346022487.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAS ERSTE HD (1)
-https://vavoo.to/live2/play3/1340558123.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAS ERSTE HD+ (1)
-https://vavoo.to/live2/play3/533426354.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 1 (MATCH TIME) HD (1)
-https://vavoo.to/live2/play3/3579549301.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 1 FHD (1)
 https://vavoo.to/live2/play3/1346436847.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 1 HD (1)
-https://vavoo.to/live2/play3/2267295660.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 10 (MATCH TIME) HD (1)
-https://vavoo.to/live2/play3/2936413245.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 11 (MATCH TIME) HD (1)
-https://vavoo.to/live2/play3/819765155.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 12(MATCH TIME) HD (1)
-https://vavoo.to/live2/play3/4283648988.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 13 (MATCH TIME) HD (1)
-https://vavoo.to/live2/play3/3558383326.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 14 (MATCH TIME) HD (1)
 https://vavoo.to/live2/play3/3187611782.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 15(MATCH TIME) HD (1)
 https://vavoo.to/live2/play3/504884559.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 16 (MATCH TIME) HD (1)
-https://vavoo.to/live2/play3/1497045499.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 17 (MATCH TIME) HD (1)
 https://vavoo.to/live2/play3/3336673893.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 18 (MATCH TIME) HD (1)
 https://vavoo.to/live2/play3/2331252043.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 2 (MATCH TIME) HD (1)
 https://vavoo.to/live2/play3/2923762838.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 2 FHD (1)
-https://vavoo.to/live2/play3/1775092266.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 2 HD (1)
-https://vavoo.to/live2/play3/162211919.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 3 (MATCH TIME) HD (1)
-https://vavoo.to/live2/play3/832542472.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 4 (MATCH TIME) HD (1)
-https://vavoo.to/live2/play3/1484263760.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 5 (MATCH TIME) HD (1)
-https://vavoo.to/live2/play3/3349320398.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 6 (MATCH TIME) HD (1)
 https://vavoo.to/live2/play3/3166441517.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 7 (MATCH TIME) HD (1)
-https://vavoo.to/live2/play3/593925043.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 8 (MATCH TIME) HD (1)
-https://vavoo.to/live2/play3/1869814941.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DAZN 9 (MATCH TIME) HD (1)
 https://vavoo.to/live2/play3/4037648131.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DAZN SPORT 1 HD (1)
@@ -11663,6 +11891,8 @@ https://vavoo.to/live2/play3/2235470073.m3u8
 https://vavoo.to/live2/play3/678356168.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DB LIGA 2 HD (1)
 https://vavoo.to/live2/play3/2935466724.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DB LIGA 3 FHD (1)
+https://vavoo.to/live2/play3/1058402443.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DB LIGA 3 HD (1)
 https://vavoo.to/live2/play3/1650305658.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DB LIGA 4 FHD (1)
@@ -11671,6 +11901,8 @@ https://vavoo.to/live2/play3/1534369090.m3u8
 https://vavoo.to/live2/play3/1754833763.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DB LIGA 5 FHD (1)
 https://vavoo.to/live2/play3/1276086529.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DB LIGA 5 HD (1)
+https://vavoo.to/live2/play3/2754782205.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DB LIGA 6 FHD (1)
 https://vavoo.to/live2/play3/1971500484.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DB LIGA 6 HD (1)
@@ -11683,6 +11915,8 @@ https://vavoo.to/live2/play3/3860309120.m3u8
 https://vavoo.to/live2/play3/3175116374.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DB LIGA 8 HD (1)
 https://vavoo.to/live2/play3/1060615724.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DB LIGA 9 FHD (1)
+https://vavoo.to/live2/play3/2856024597.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DB LIGA 9 HD (1)
 https://vavoo.to/live2/play3/4087199410.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DELUXE MUSIC (1)
@@ -11695,10 +11929,6 @@ https://vavoo.to/live2/play3/1552305783.m3u8
 https://vavoo.to/live2/play3/364770966.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DEUTSCHE SPORT (1)
 https://vavoo.to/live2/play3/3690248614.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DISCOVERY CHANNEL HD (1)
-https://vavoo.to/live2/play3/3099080474.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DISCOVERY HD+ (1)
-https://vavoo.to/live2/play3/2761218044.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DISNEY CHANNEL (1)
 https://vavoo.to/live2/play3/701551975.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DISNEY JUNIOR (1)
@@ -11707,16 +11937,18 @@ https://vavoo.to/live2/play3/1433968066.m3u8
 https://vavoo.to/live2/play3/3528502381.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DK4 (1)
 https://vavoo.to/live2/play3/1419294625.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DMAX (1)
-https://vavoo.to/live2/play3/2498778663.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DMAX HD+ (1)
 https://vavoo.to/live2/play3/794036278.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DR RAMASJANG (1)
 https://vavoo.to/live2/play3/1249122834.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DR1 (1)
+https://vavoo.to/live2/play3/3097586562.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DW (1)
 https://vavoo.to/live2/play3/3047039556.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EAGLE BOLLYWOOD HD (1)
 https://vavoo.to/live2/play3/1014517668.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",EAGLE MASHA UND DER B HD (1)
+https://vavoo.to/live2/play3/2694157128.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EAGLE PEPPA WUTZ HD (1)
 https://vavoo.to/live2/play3/3346505044.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EAGLE PJ MASKS HD (1)
@@ -11729,16 +11961,14 @@ https://vavoo.to/live2/play3/1307123031.m3u8
 https://vavoo.to/live2/play3/8159165.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EURONEWS GERMANY (1)
 https://vavoo.to/live2/play3/1579462080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",EUROSPORT 1 HD (1)
+https://vavoo.to/live2/play3/731796873.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EUROSPORT 1 HD (BACKUP) (1)
 https://vavoo.to/live2/play3/1988924073.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EUROSPORT 2 FHD (1)
 https://vavoo.to/live2/play3/577088535.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EUROSPORT 2 HD (1)
 https://vavoo.to/live2/play3/2769375850.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",EUROSPORT 2 HD (BACKUP 2) (1)
-https://vavoo.to/live2/play3/136650226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",EUROSPORT 2 HD (BACKUP) (1)
-https://vavoo.to/live2/play3/622250285.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EUROSPORT 2 XTRA HD (1)
 https://vavoo.to/live2/play3/2674415975.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",EUROSPORT 2 XTRA HD (BACKUP) (1)
@@ -11751,6 +11981,8 @@ https://vavoo.to/live2/play3/3534948376.m3u8
 https://vavoo.to/live2/play3/2176509151.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",FEUERWEHRMANN SAM TV (1)
 https://vavoo.to/live2/play3/3117831607.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",FIX&FOXI (1)
+https://vavoo.to/live2/play3/3567855153.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",FOX HD (1)
 https://vavoo.to/live2/play3/1518951988.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",FOX HD (BACKUP) (1)
@@ -11759,10 +11991,6 @@ https://vavoo.to/live2/play3/4039824657.m3u8
 https://vavoo.to/live2/play3/2463503186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",FOX HD+ (BACKUP) (1)
 https://vavoo.to/live2/play3/1158545284.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",GEO TELEVISION HD (1)
-https://vavoo.to/live2/play3/2916930910.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",HISTORY (1)
-https://vavoo.to/live2/play3/4106953987.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",HISTORY HD (1)
 https://vavoo.to/live2/play3/4013755273.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",HR-FERNSEHEN HD (1)
@@ -11771,12 +11999,10 @@ https://vavoo.to/live2/play3/1583736075.m3u8
 https://vavoo.to/live2/play3/2877260651.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",JUKEBOX (1)
 https://vavoo.to/live2/play3/3586356557.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",JUNIOR HD (1)
+https://vavoo.to/live2/play3/1402056834.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",K-TV (1)
 https://vavoo.to/live2/play3/709698855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",KABEL 1 CLASSICS HD (1)
-https://vavoo.to/live2/play3/648723164.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",KABEL 1 HD (1)
-https://vavoo.to/live2/play3/133606649.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",KABEL EINS DOKU (1)
 https://vavoo.to/live2/play3/77413792.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",KABEL EINS HD (1)
@@ -11787,6 +12013,8 @@ https://vavoo.to/live2/play3/4207254686.m3u8
 https://vavoo.to/live2/play3/1022014852.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",KIKA (1)
 https://vavoo.to/live2/play3/1978971661.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",KINDER SENDER (1)
+https://vavoo.to/live2/play3/1057265460.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",KINDERM RCHEN 1 (1)
 https://vavoo.to/live2/play3/3130154617.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",KINDERM RCHEN 2 (1)
@@ -11815,8 +12043,6 @@ https://vavoo.to/live2/play3/3401470222.m3u8
 https://vavoo.to/live2/play3/329139106.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",MAGENTA FUSSBALL 2 HD (1)
 https://vavoo.to/live2/play3/878916041.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",MAGENTA FUSSBALL 3 HD (1)
-https://vavoo.to/live2/play3/4173934935.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",MAGENTA FUSSBALL 4 HD (1)
 https://vavoo.to/live2/play3/4060887118.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",MAGENTA FUSSBALL 5 HD (1)
@@ -11837,16 +12063,10 @@ https://vavoo.to/live2/play3/2371877622.m3u8
 https://vavoo.to/live2/play3/3766920010.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",MDR HD (1)
 https://vavoo.to/live2/play3/2986092502.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",MORE THAN SPORTS TV FHD (1)
-https://vavoo.to/live2/play3/426550286.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",MORE THAN SPORTS TV HD (1)
-https://vavoo.to/live2/play3/3258549066.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",MOTORSPORT TV (1)
 https://vavoo.to/live2/play3/1371296327.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",MOTORVISION TV (1)
 https://vavoo.to/live2/play3/330584541.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",MOTORVISION TV HD (1)
-https://vavoo.to/live2/play3/3821257483.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",MR. BEAN (1)
 https://vavoo.to/live2/play3/375558930.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",MTV (1)
@@ -11861,38 +12081,28 @@ https://vavoo.to/live2/play3/2784325436.m3u8
 https://vavoo.to/live2/play3/2633164625.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",N24 DOCU (1)
 https://vavoo.to/live2/play3/960731050.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",N24 DOKU HD (1)
+https://vavoo.to/live2/play3/3084650651.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NACHRICHTEN (1)
 https://vavoo.to/live2/play3/825882949.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NAT GEO (1)
 https://vavoo.to/live2/play3/2169389937.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",NAT GEO WILD (1)
-https://vavoo.to/live2/play3/2660473561.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",NAT GEO WILD HD+ (1)
-https://vavoo.to/live2/play3/2136856572.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NATIONAL GEOGRAPHIC (1)
 https://vavoo.to/live2/play3/31467150.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",NBA TV (1)
-https://vavoo.to/live2/play3/3050427797.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NDR FERNSEHEN (1)
 https://vavoo.to/live2/play3/122860021.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NICK JR (1)
 https://vavoo.to/live2/play3/4035838813.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NICK JR (BACKUP) (1)
 https://vavoo.to/live2/play3/3003713791.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",NICK/COMEDY CENTRAL+1 (1)
-https://vavoo.to/live2/play3/849239493.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NICKELODEON (1)
 https://vavoo.to/live2/play3/3316874696.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",NICKTOONS (1)
+https://vavoo.to/live2/play3/3843525510.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NITRO HEVC (1)
 https://vavoo.to/live2/play3/3085198764.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",NTV (1)
-https://vavoo.to/live2/play3/3784998028.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",NTV HD (1)
-https://vavoo.to/live2/play3/1916915806.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",ONE (1)
 https://vavoo.to/live2/play3/3269507991.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",ONE HD (1)
-https://vavoo.to/live2/play3/1448691015.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",ONEBY (1)
 https://vavoo.to/live2/play3/3479962875.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",PARAMOUNT NETWORK (1)
@@ -11905,8 +12115,6 @@ https://vavoo.to/live2/play3/444670647.m3u8
 https://vavoo.to/live2/play3/215481388.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",PJ MASKS (1)
 https://vavoo.to/live2/play3/2423247500.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",PRO 7 HD (1)
-https://vavoo.to/live2/play3/3933316497.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",PRO 7 HD+ (1)
 https://vavoo.to/live2/play3/886750414.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",PRO7 FUN HD (1)
@@ -11917,8 +12125,6 @@ https://vavoo.to/live2/play3/756654497.m3u8
 https://vavoo.to/live2/play3/1793902345.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",PRO7 MAXX HEVC (1)
 https://vavoo.to/live2/play3/1913066493.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",PROSIEBEN (1)
-https://vavoo.to/live2/play3/3073392667.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",PROSIEBEN HD (1)
 https://vavoo.to/live2/play3/3488435572.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",QVC 2 HD (1)
@@ -11929,24 +12135,14 @@ https://vavoo.to/live2/play3/1663642536.m3u8
 https://vavoo.to/live2/play3/847626648.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RNF (1)
 https://vavoo.to/live2/play3/2202614857.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",RTL 2 HD+ (1)
-https://vavoo.to/live2/play3/1758367531.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RTL CRIME (1)
 https://vavoo.to/live2/play3/3323550976.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RTL CRIME HD (1)
 https://vavoo.to/live2/play3/1648424420.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",RTL CRIME HD+ (1)
-https://vavoo.to/live2/play3/339544109.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",RTL HD (1)
-https://vavoo.to/live2/play3/2728959195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",RTL HD+ (1)
-https://vavoo.to/live2/play3/2728119673.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RTL LIVING (1)
 https://vavoo.to/live2/play3/196189662.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RTL LIVING HD (1)
 https://vavoo.to/live2/play3/4137685383.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",RTL NITRO HD (1)
-https://vavoo.to/live2/play3/1104227509.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RTL NITRO HD+ (1)
 https://vavoo.to/live2/play3/141752470.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RTL PASSION (1)
@@ -11955,16 +12151,12 @@ https://vavoo.to/live2/play3/3131644541.m3u8
 https://vavoo.to/live2/play3/1244685525.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RTL PASSION HD+ (1)
 https://vavoo.to/live2/play3/1170962566.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",RTL ZWEI HD (1)
-https://vavoo.to/live2/play3/160203873.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 1 (1)
 https://vavoo.to/live2/play3/1853551406.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 2 (1)
 https://vavoo.to/live2/play3/702188030.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 3 (1)
 https://vavoo.to/live2/play3/347775054.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 4 (1)
-https://vavoo.to/live2/play3/2795142238.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 5 (1)
 https://vavoo.to/live2/play3/2616874478.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 6 (1)
@@ -12017,8 +12209,6 @@ https://vavoo.to/live2/play3/2312024953.m3u8
 https://vavoo.to/live2/play3/2978752107.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",S. SPORT 9 HD (1)
 https://vavoo.to/live2/play3/1164227559.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",S. SPORT F1 HD (1)
-https://vavoo.to/live2/play3/3336659461.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",S. SPORT GOLF FHD (1)
 https://vavoo.to/live2/play3/119323253.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",S. SPORT GOLF HD (1)
@@ -12065,6 +12255,8 @@ https://vavoo.to/live2/play3/1018615269.m3u8
 https://vavoo.to/live2/play3/2760602887.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY 1 HD (BACKUP) (1)
 https://vavoo.to/live2/play3/4218240582.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY 1 HD+ (1)
+https://vavoo.to/live2/play3/771256431.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY 1 HD+ (BACKUP) (1)
 https://vavoo.to/live2/play3/2953419832.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY 24 (1)
@@ -12087,30 +12279,80 @@ https://vavoo.to/live2/play3/2798401146.m3u8
 https://vavoo.to/live2/play3/1102498392.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BEST OF HD (1)
 https://vavoo.to/live2/play3/2022058191.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BEST OF HD+ (1)
-https://vavoo.to/live2/play3/3097180080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX ABENTEUER HD (1)
 https://vavoo.to/live2/play3/2766619048.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX ACTION HD (1)
+https://vavoo.to/live2/play3/3949554214.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX BOLLYWOOD HD (1)
+https://vavoo.to/live2/play3/3362263722.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX DOCU HD (1)
+https://vavoo.to/live2/play3/821753191.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX DRAMA HD (1)
+https://vavoo.to/live2/play3/3739835247.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX FAMILIE HD (1)
+https://vavoo.to/live2/play3/911872184.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX FANTASY HD (1)
+https://vavoo.to/live2/play3/3282185407.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX HISTORIE HD (1)
 https://vavoo.to/live2/play3/2560765084.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX HORROR HD (1)
+https://vavoo.to/live2/play3/1964620151.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX KARATE HD (1)
 https://vavoo.to/live2/play3/3046168786.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX KOMODIE HD (1)
+https://vavoo.to/live2/play3/2149902052.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX KRIEGSFILM HD (1)
+https://vavoo.to/live2/play3/2307006284.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX KRIMI HD (1)
+https://vavoo.to/live2/play3/1817157471.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX LIEBESFILM HD (1)
+https://vavoo.to/live2/play3/1435025483.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX MYSTERY HD (1)
+https://vavoo.to/live2/play3/4005116622.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 1 HD (1)
+https://vavoo.to/live2/play3/1615338745.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 10 HD (1)
 https://vavoo.to/live2/play3/3749412691.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 11 HD (1)
+https://vavoo.to/live2/play3/332496845.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 12 HD (1)
 https://vavoo.to/live2/play3/2640214062.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 13 HD (1)
 https://vavoo.to/live2/play3/1374976176.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 14 HD (1)
+https://vavoo.to/live2/play3/1529967017.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 15 HD (1)
+https://vavoo.to/live2/play3/2543546679.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 16 HD (1)
 https://vavoo.to/live2/play3/420771540.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 17 HD (1)
+https://vavoo.to/live2/play3/3586029130.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 18 HD (1)
+https://vavoo.to/live2/play3/211707110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 19 HD (1)
+https://vavoo.to/live2/play3/3224659064.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 2 HD (1)
+https://vavoo.to/live2/play3/4006026010.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 20 HD (1)
 https://vavoo.to/live2/play3/3874898838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 3 HD (1)
 https://vavoo.to/live2/play3/577575812.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 4 HD (1)
+https://vavoo.to/live2/play3/682103453.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 5 HD (1)
+https://vavoo.to/live2/play3/3825340931.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 6 HD (1)
+https://vavoo.to/live2/play3/1787631072.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 7 HD (1)
 https://vavoo.to/live2/play3/2787579262.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 8 HD (1)
+https://vavoo.to/live2/play3/2131167186.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 9 HD (1)
+https://vavoo.to/live2/play3/3014461260.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX SCI-FI HD (1)
 https://vavoo.to/live2/play3/607841075.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX THRILLER HD (1)
+https://vavoo.to/live2/play3/2077545130.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BOX WESTERN HD (1)
 https://vavoo.to/live2/play3/50330410.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BUNDESLIGA 10 HD (1)
@@ -12123,8 +12365,6 @@ https://vavoo.to/live2/play3/2584751289.m3u8
 https://vavoo.to/live2/play3/345975642.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BUNDESLIGA 7 HD (1)
 https://vavoo.to/live2/play3/3627363268.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",SKY BUNDESLIGA 8 HD (1)
-https://vavoo.to/live2/play3/18168168.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY BUNDESLIGA1 (1)
 https://vavoo.to/live2/play3/3948160239.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY CINEMA ACTION HD (1)
@@ -12137,8 +12377,16 @@ https://vavoo.to/live2/play3/4183661289.m3u8
 https://vavoo.to/live2/play3/1779919359.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY CINEMA CLASSICS HD (1)
 https://vavoo.to/live2/play3/185991845.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY CINEMA CLASSICS HD+ (1)
+https://vavoo.to/live2/play3/361705436.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY CINEMA EMOTION (1)
+https://vavoo.to/live2/play3/750680993.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY CINEMA FAMILY HD+ (1)
+https://vavoo.to/live2/play3/1988074518.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY CINEMA FUN HD (1)
 https://vavoo.to/live2/play3/2703750927.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY CINEMA HITS (1)
+https://vavoo.to/live2/play3/2331906255.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY CINEMA PREMIEREN +24 (1)
 https://vavoo.to/live2/play3/2077331655.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY CINEMA PREMIEREN +24 HD (1)
@@ -12159,6 +12407,8 @@ https://vavoo.to/live2/play3/2337929760.m3u8
 https://vavoo.to/live2/play3/2091375723.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY FAMILY (1)
 https://vavoo.to/live2/play3/2386625263.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY FAMILY HD (1)
+https://vavoo.to/live2/play3/2557344364.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY FAMILY HD+ (1)
 https://vavoo.to/live2/play3/4154732080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY FUN (1)
@@ -12167,14 +12417,16 @@ https://vavoo.to/live2/play3/2592120252.m3u8
 https://vavoo.to/live2/play3/446346560.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY KRIMI HD (1)
 https://vavoo.to/live2/play3/1869613335.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY KRIMI HD (BACKUP) (1)
+https://vavoo.to/live2/play3/2969860284.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY KRIMI HD+ (1)
 https://vavoo.to/live2/play3/813996919.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY KRIMI HD+ (BACKUP) (1)
 https://vavoo.to/live2/play3/3979079292.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY NATURE HD (1)
 https://vavoo.to/live2/play3/1699811246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",SKY PREMIEREN 24 HD (1)
-https://vavoo.to/live2/play3/4020437909.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY PREMIEREN (1)
+https://vavoo.to/live2/play3/2826655246.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY PREMIEREN 24 HD+ (1)
 https://vavoo.to/live2/play3/867347057.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY PREMIEREN HD (1)
@@ -12223,6 +12475,8 @@ https://vavoo.to/live2/play3/3545918392.m3u8
 https://vavoo.to/live2/play3/3485784838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY SELECT PROGRAMM BERSICHT (1)
 https://vavoo.to/live2/play3/2777266633.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",SKY SERIEN & SHOWS FHD (1)
+https://vavoo.to/live2/play3/313699292.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY SERIEN & SHOWS HD (1)
 https://vavoo.to/live2/play3/3353964677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY SERIEN&SHOWS HD+ (1)
@@ -12237,8 +12491,6 @@ https://vavoo.to/live2/play3/3383055989.m3u8
 https://vavoo.to/live2/play3/2382703781.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY SPORT 6 HD (1)
 https://vavoo.to/live2/play3/463237157.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",SKY SPORT 8 HD (1)
-https://vavoo.to/live2/play3/236347927.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY SPORT 9 HD (1)
 https://vavoo.to/live2/play3/3267125897.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",SKY SPORT F1 HD (H265) (1)
@@ -12299,8 +12551,6 @@ https://vavoo.to/live2/play3/3160192054.m3u8
 https://vavoo.to/live2/play3/186690144.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",TAGESSCHAU24 HD+ (1)
 https://vavoo.to/live2/play3/4269879115.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",TELE 5 TV (1)
-https://vavoo.to/live2/play3/1693994894.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",TELEKOM BUNDESLIGA 1 HD (1)
 https://vavoo.to/live2/play3/1080222758.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",TELEKOM BUNDESLIGA 2 HD (1)
@@ -12319,6 +12569,8 @@ https://vavoo.to/live2/play3/2249059745.m3u8
 https://vavoo.to/live2/play3/1800539046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",TNT COMEDY HD+ (1)
 https://vavoo.to/live2/play3/2363898479.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",TNT FILM HD (1)
+https://vavoo.to/live2/play3/3298139173.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",TNT FILM HD+ (1)
 https://vavoo.to/live2/play3/4177014626.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",TNT SERIE HD (1)
@@ -12359,18 +12611,16 @@ https://vavoo.to/live2/play3/2279462690.m3u8
 https://vavoo.to/live2/play3/2086139873.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",V FILM HITS (1)
 https://vavoo.to/live2/play3/3959207547.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",V FILM PREMIERE (1)
+https://vavoo.to/live2/play3/489755247.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",V SERIES (1)
 https://vavoo.to/live2/play3/1612689771.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",V SPORT GOLF (1)
 https://vavoo.to/live2/play3/343931295.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",VH1 CLASSIC (1)
 https://vavoo.to/live2/play3/754018564.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",VIASAT EXPLORE (1)
-https://vavoo.to/live2/play3/117291557.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",VIASAT HISTORY (1)
 https://vavoo.to/live2/play3/918974764.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",VIASAT NATURE (1)
-https://vavoo.to/live2/play3/770027360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",VOX HD (1)
 https://vavoo.to/live2/play3/2099765212.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",VOX HD+ (1)
@@ -12387,12 +12637,8 @@ https://vavoo.to/live2/play3/3989417093.m3u8
 https://vavoo.to/live2/play3/2171614967.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",WDR HD+ (1)
 https://vavoo.to/live2/play3/2422241584.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",WELT (1)
-https://vavoo.to/live2/play3/742772823.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",WELT DER WUNDER TV (1)
 https://vavoo.to/live2/play3/1535591964.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/3464894270.png" group-title="Germany",WELT/ N24 HD+ (1)
-https://vavoo.to/live2/play3/3464894270.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2024985069.png" group-title="Germany",WELT/N24 SD (1)
 https://vavoo.to/live2/play3/2024985069.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",WORLD POKER TOUR (1)
@@ -12403,8 +12649,6 @@ https://vavoo.to/live2/play3/1648586865.m3u8
 https://vavoo.to/live2/play3/3381588854.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",YAKARI TV (1)
 https://vavoo.to/live2/play3/631820026.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",ZDF HD (1)
-https://vavoo.to/live2/play3/2357166742.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",ZDF HD+ (1)
 https://vavoo.to/live2/play3/2866292554.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",ZDF INFO HD (1)
@@ -12477,6 +12721,8 @@ https://vavoo.to/live2/play3/3272334314.m3u8
 https://vavoo.to/live2/play3/1341499575.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",EUROSPORT 1 (1)
 https://vavoo.to/live2/play3/932736266.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",EUROSPORT 2 (1)
+https://vavoo.to/live2/play3/1882724314.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",EXPLORER HISTORI (1)
 https://vavoo.to/live2/play3/4241397723.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",EXPLORER NATYRA (1)
@@ -12783,8 +13029,6 @@ https://vavoo.to/live2/play3/3811688013.m3u8
 https://vavoo.to/live2/play3/1387509149.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",TV ASHKALI ILAHI (1)
 https://vavoo.to/live2/play3/857530317.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",TV KOHA (1)
-https://vavoo.to/live2/play3/302501346.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",TV TEMA (1)
 https://vavoo.to/live2/play3/1126244504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",TVSH (1)
@@ -12839,6 +13083,8 @@ https://vavoo.to/live2/play3/1123778687.m3u8
 https://vavoo.to/live2/play3/392730275.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",ABU DHABI SPORT ASIA 1 (1)
 https://vavoo.to/live2/play3/3742208214.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabia",ABU DHABI SPORT ASIA 2 (1)
+https://vavoo.to/live2/play3/2561534470.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",ABU DHABI SPORTS 1 (FHD) (1)
 https://vavoo.to/live2/play3/2869864085.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2359358293.png" group-title="Arabia",ABU DHABI TV (1)
@@ -12909,6 +13155,8 @@ https://vavoo.to/live2/play3/3307905457.m3u8
 https://vavoo.to/live2/play3/817620545.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",AL GHAD SD (1)
 https://vavoo.to/live2/play3/3153492780.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabia",AL GHAD TV (1)
+https://vavoo.to/live2/play3/3167981430.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",AL GHADEER (1)
 https://vavoo.to/live2/play3/1482136522.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3685533564.png" group-title="Arabia",AL HAYAT (BACKUP) (1)
@@ -12943,6 +13191,8 @@ https://vavoo.to/live2/play3/2153971898.m3u8
 https://vavoo.to/live2/play3/3351476842.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",AL KAWTHAR.PALESTINE (1)
 https://vavoo.to/live2/play3/2296361700.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabia",AL MAGHRIBIA (1)
+https://vavoo.to/live2/play3/1827627358.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",AL MAGHRIBIA TNT (1)
 https://vavoo.to/live2/play3/471646791.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",AL MAJD 1 (1)
@@ -12991,8 +13241,6 @@ https://vavoo.to/live2/play3/3299459476.m3u8
 https://vavoo.to/live2/play3/4000408580.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",AL SHARQIYA (1)
 https://vavoo.to/live2/play3/2650879358.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Arabia",AL SHARQIYA HD (1)
-https://vavoo.to/live2/play3/2187839775.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",AL SHARQIYA NEWS (1)
 https://vavoo.to/live2/play3/4220440469.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",AL SHARQIYA NEWS (BACKUP) (1)
@@ -13045,6 +13293,10 @@ https://vavoo.to/live2/play3/982223163.m3u8
 https://vavoo.to/live2/play3/2397827261.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",ALFORAT TV (FHD) (1)
 https://vavoo.to/live2/play3/501483461.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabia",ALGERIA 1 (1)
+https://vavoo.to/live2/play3/3870741582.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabia",ALGERIA 4 (1)
+https://vavoo.to/live2/play3/777411390.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",ALGERIA 5 (1)
 https://vavoo.to/live2/play3/322335374.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",ALGERIA A3 HD (1)
@@ -13499,12 +13751,8 @@ https://vavoo.to/live2/play3/3361859431.m3u8
 https://vavoo.to/live2/play3/270755383.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS 4 HD (BACKUP) (1)
 https://vavoo.to/live2/play3/307051030.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS 4 HD LOCAL (1)
-https://vavoo.to/live2/play3/4277590408.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS 4 HQ (1)
 https://vavoo.to/live2/play3/1617035157.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS 4 SD (1)
-https://vavoo.to/live2/play3/2708477247.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS 5 (1)
 https://vavoo.to/live2/play3/2831349556.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS 5 (BACKUP) (1)
@@ -13561,6 +13809,8 @@ https://vavoo.to/live2/play3/2190998611.m3u8
 https://vavoo.to/live2/play3/1180339457.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS 7 HQ (1)
 https://vavoo.to/live2/play3/4008638582.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS 7 SD (1)
+https://vavoo.to/live2/play3/805245660.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS 8 (1)
 https://vavoo.to/live2/play3/1347564421.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS 8 HD (1)
@@ -13637,8 +13887,6 @@ https://vavoo.to/live2/play3/1558693346.m3u8
 https://vavoo.to/live2/play3/496638848.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS ENGLISH HD2 (1)
 https://vavoo.to/live2/play3/1513775440.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS ENGLISH HD3 (1)
-https://vavoo.to/live2/play3/1733970144.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS EXTRA 2 FHD (1)
 https://vavoo.to/live2/play3/3153189536.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS FHD 1 (1)
@@ -13667,8 +13915,6 @@ https://vavoo.to/live2/play3/696318282.m3u8
 https://vavoo.to/live2/play3/1084564613.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS HD (1)
 https://vavoo.to/live2/play3/1056614008.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS NBA (1)
-https://vavoo.to/live2/play3/2345915610.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS NBA HD (1)
 https://vavoo.to/live2/play3/1940803043.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",BEIN SPORTS NEWS HD (1)
@@ -13787,8 +14033,6 @@ https://vavoo.to/live2/play3/4267732037.m3u8
 https://vavoo.to/live2/play3/2469880015.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",CANAL 4 POSADAS (1)
 https://vavoo.to/live2/play3/1594829604.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Arabia",CANAL 4 SAN JUAN (1)
-https://vavoo.to/live2/play3/2853376584.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",CANAL 5 PICO ARG: RUNCADO (1)
 https://vavoo.to/live2/play3/571696551.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",CANAL 5 SANTA FE (1)
@@ -14009,6 +14253,8 @@ https://vavoo.to/live2/play3/1569120001.m3u8
 https://vavoo.to/live2/play3/363789532.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",FOOD NETWORK HD (1)
 https://vavoo.to/live2/play3/2688738498.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabia",FOX CRIME (1)
+https://vavoo.to/live2/play3/4146499708.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",FOX LIFE HD (1)
 https://vavoo.to/live2/play3/2127932400.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",FOX SPORTS 3 (1)
@@ -14213,6 +14459,8 @@ https://vavoo.to/live2/play3/1861699430.m3u8
 https://vavoo.to/live2/play3/2318376281.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",LIBYIH TV (1)
 https://vavoo.to/live2/play3/27488749.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabia",LIKE GECKO) CHROME/92.0.4515.131 SAFARI/537.36 (1)
+https://vavoo.to/live2/play3/3782474179.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",LIKE GECKO) MOBILE/15E148 (1)
 https://vavoo.to/live2/play3/424771674.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",LITUS ARG: V (1)
@@ -14279,12 +14527,14 @@ https://vavoo.to/live2/play3/3441997029.m3u8
 https://vavoo.to/live2/play3/159425668.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",MBC 4 (FHD) (1)
 https://vavoo.to/live2/play3/2568082672.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1754487651.png" group-title="Arabia",MBC 5 (1)
+https://vavoo.to/live2/play3/1754487651.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",MBC 5 (FHD) (1)
 https://vavoo.to/live2/play3/1486818096.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3272882914.png" group-title="Arabia",MBC ACTION (1)
 https://vavoo.to/live2/play3/3272882914.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Arabia",MBC BOLLYWOOD (FHD) [GEO-BLOCKED] (1)
-https://vavoo.to/live2/play3/4236463705.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/2711218384.png" group-title="Arabia",MBC DRAMA (1)
+https://vavoo.to/live2/play3/2711218384.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",MBC DRAMA KSA (FHD) (1)
 https://vavoo.to/live2/play3/3587731742.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",MBC DRAMA USA (FHD) (1)
@@ -14305,6 +14555,8 @@ https://vavoo.to/live2/play3/1564640134.m3u8
 https://vavoo.to/live2/play3/467356702.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",MBC PLUS DRAMA (FHD) (1)
 https://vavoo.to/live2/play3/1610271116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabia",MEDI 1 TV MAGHREB (FHD) [NOT 24/7] (1)
+https://vavoo.to/live2/play3/3196454973.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",MEDI1 TNT (1)
 https://vavoo.to/live2/play3/2667311652.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",MEDI1.TV.HD (1)
@@ -14381,8 +14633,6 @@ https://vavoo.to/live2/play3/2361384741.m3u8
 https://vavoo.to/live2/play3/2984321198.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",MYHD-MBC 2 HD (1)
 https://vavoo.to/live2/play3/1064183629.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Arabia",MYHD-MBC 3 HD (1)
-https://vavoo.to/live2/play3/4089718739.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",MYHD-MBC 4 HD (1)
 https://vavoo.to/live2/play3/4177604298.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",MYHD-MBC ACTION HD (1)
@@ -14511,8 +14761,6 @@ https://vavoo.to/live2/play3/3686926043.m3u8
 https://vavoo.to/live2/play3/6722982.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",PALESTINE (1)
 https://vavoo.to/live2/play3/3475995456.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Arabia",PALESTINE LIVE (1)
-https://vavoo.to/live2/play3/2925411597.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",PALESTINE LIVE (BACKUP) (1)
 https://vavoo.to/live2/play3/3428540932.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",PALESTINE MUBASHER (404P) (1)
@@ -14597,6 +14845,8 @@ https://vavoo.to/live2/play3/707303440.m3u8
 https://vavoo.to/live2/play3/1594962702.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2686610418.png" group-title="Arabia",ROTANA COMEDY (1)
 https://vavoo.to/live2/play3/2686610418.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1073324453.png" group-title="Arabia",ROTANA KHALIJIA (1)
+https://vavoo.to/live2/play3/1073324453.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",ROTANA RADIO JORDAN: STUDIO (180P) [NOT 24/7] (1)
 https://vavoo.to/live2/play3/3669843019.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",ROTANA TARAB JORDAN: CITY VIEW (180P) [NOT 24/7] (1)
@@ -14609,6 +14859,8 @@ https://vavoo.to/live2/play3/2887920787.m3u8
 https://vavoo.to/live2/play3/3929129859.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",SADA EL BALAD (1)
 https://vavoo.to/live2/play3/799861251.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Arabia",SADA ELBALAD DRAMA (1)
+https://vavoo.to/live2/play3/675126879.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia",SALAM TV (FHD) (1)
 https://vavoo.to/live2/play3/910127330.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3076476581.png" group-title="Arabia",SAMA DUBAI (1)
@@ -15231,30 +15483,18 @@ https://vavoo.to/live2/play3/3536962622.m3u8
 https://vavoo.to/live2/play3/1921753814.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 2 HD (1)
 https://vavoo.to/live2/play3/1549714397.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 2 HD+ (1)
-https://vavoo.to/live2/play3/1258724883.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 3 HD (1)
-https://vavoo.to/live2/play3/2431959875.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 3 HD+ (1)
 https://vavoo.to/live2/play3/1551731280.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 4 HD (1)
 https://vavoo.to/live2/play3/2586954330.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 4 HD+ (1)
 https://vavoo.to/live2/play3/941418393.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 5 HD (1)
-https://vavoo.to/live2/play3/1453050564.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 5 HD+ (1)
 https://vavoo.to/live2/play3/795341786.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 6 HD (1)
-https://vavoo.to/live2/play3/3625241895.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 6 HD+ (1)
 https://vavoo.to/live2/play3/384487199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 7 HD (1)
-https://vavoo.to/live2/play3/348048825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 7 HD+ (1)
 https://vavoo.to/live2/play3/26336092.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 8 HD (1)
-https://vavoo.to/live2/play3/3449741077.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",AMAZON PRIME 8 HD+ (1)
 https://vavoo.to/live2/play3/3727168653.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",ANIMAUX (1)
@@ -15265,16 +15505,12 @@ https://vavoo.to/live2/play3/2852509052.m3u8
 https://vavoo.to/live2/play3/120986578.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",AUTO MOTO HD (BACKUP) (1)
 https://vavoo.to/live2/play3/3199649177.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",BE: ELEVEN PRO LEAGUE 3 HD (1)
-https://vavoo.to/live2/play3/202244615.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",BE: ELEVEN PRO LEAGUES 1 HD (1)
 https://vavoo.to/live2/play3/3247154919.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",BE: ELEVEN PRO LEAGUES 2 HD (1)
-https://vavoo.to/live2/play3/1325703428.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",BE: ELEVENSPORT 1 HD (1)
 https://vavoo.to/live2/play3/3488299312.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",BE: ELEVENSPORT 3 HD (1)
-https://vavoo.to/live2/play3/2379103821.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",BE: ELEVENSPORT 2 HD (1)
+https://vavoo.to/live2/play3/1097088723.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",BEIN SPORTS 1 (1)
 https://vavoo.to/live2/play3/3844916882.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",BEIN SPORTS 1 (BACKUP) (1)
@@ -15519,8 +15755,6 @@ https://vavoo.to/live2/play3/584773960.m3u8
 https://vavoo.to/live2/play3/2935192752.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",EUROSPORT 1 HD (1)
 https://vavoo.to/live2/play3/1801327897.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",EUROSPORT 2 (1)
-https://vavoo.to/live2/play3/3914532448.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",EUROSPORT 2 HD (1)
 https://vavoo.to/live2/play3/3855684346.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FOOT+ (1)
@@ -15537,8 +15771,6 @@ https://vavoo.to/live2/play3/28154726.m3u8
 https://vavoo.to/live2/play3/3004974450.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FRANCE O HD (1)
 https://vavoo.to/live2/play3/2391590954.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",GAME ONE (1)
-https://vavoo.to/live2/play3/959272147.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",GOLF CHANNEL HD (1)
 https://vavoo.to/live2/play3/1646679501.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",GOLF CHANNEL HD (BACKUP) (1)
@@ -15555,8 +15787,6 @@ https://vavoo.to/live2/play3/665994240.m3u8
 https://vavoo.to/live2/play3/3208238801.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",INFOSPORT+ (1)
 https://vavoo.to/live2/play3/1112782125.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",INFOSPORT+ (BACKUP) (1)
-https://vavoo.to/live2/play3/3458581745.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",J-ONE (1)
 https://vavoo.to/live2/play3/874035777.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",KOMBAT SPORT HD (1)
@@ -15611,6 +15841,8 @@ https://vavoo.to/live2/play3/2621368057.m3u8
 https://vavoo.to/live2/play3/1351935591.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",MULTISPORTS 4 HD (1)
 https://vavoo.to/live2/play3/1515319166.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",MULTISPORTS 5 HD (1)
+https://vavoo.to/live2/play3/2533093344.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",MY CUISINE (1)
 https://vavoo.to/live2/play3/2550219127.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",NATIONAL GEO WILD (1)
@@ -15631,6 +15863,8 @@ https://vavoo.to/live2/play3/2578758168.m3u8
 https://vavoo.to/live2/play3/4195100803.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",NRJ HITS HD (1)
 https://vavoo.to/live2/play3/3639203183.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",NRJ HITS SD (1)
+https://vavoo.to/live2/play3/2985830199.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",OCS CITY (1)
 https://vavoo.to/live2/play3/1916217152.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",OCS FRANCEBOX 1 (1)
@@ -15713,8 +15947,6 @@ https://vavoo.to/live2/play3/1003218772.m3u8
 https://vavoo.to/live2/play3/4150388682.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",RMC SPORT LIVE 14 HD (1)
 https://vavoo.to/live2/play3/4255444691.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",RMC SPORT LIVE 15 HD (1)
-https://vavoo.to/live2/play3/823062093.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",RMC SPORT LIVE 16 HD (1)
 https://vavoo.to/live2/play3/3212962222.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",RMC SPORT LIVE 5 HD (1)
@@ -15759,6 +15991,8 @@ https://vavoo.to/live2/play3/2221887416.m3u8
 https://vavoo.to/live2/play3/1334669376.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",TFX (1)
 https://vavoo.to/live2/play3/3794086467.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",TIJI (1)
+https://vavoo.to/live2/play3/128691437.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",TMC HD (1)
 https://vavoo.to/live2/play3/4228507215.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",TOONAMI (1)
@@ -15823,6 +16057,8 @@ https://vavoo.to/live2/play3/3412671176.m3u8
 https://vavoo.to/live2/play3/1926452306.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",CANAL HD (1)
 https://vavoo.to/live2/play3/867185230.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Poland",CANAL NOW (1)
+https://vavoo.to/live2/play3/391805483.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",CANAL SERIALE HD (1)
 https://vavoo.to/live2/play3/624101167.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",CANAL SPORT 1 HD (1)
@@ -15899,6 +16135,8 @@ https://vavoo.to/live2/play3/1188119141.m3u8
 https://vavoo.to/live2/play3/1370117670.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",DA VINCI (1)
 https://vavoo.to/live2/play3/1100598548.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Poland",DISCO POLO MUSIC (1)
+https://vavoo.to/live2/play3/1469133702.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",DISCOVERY HD (1)
 https://vavoo.to/live2/play3/834680150.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",DISCOVERY HISTORIA (1)
@@ -15961,8 +16199,6 @@ https://vavoo.to/live2/play3/434259197.m3u8
 https://vavoo.to/live2/play3/965395960.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",EXTREME SPORTS HD (1)
 https://vavoo.to/live2/play3/151590303.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Poland",FIGHT BOX HD (1)
-https://vavoo.to/live2/play3/911438690.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",FIGHT KLUB HD (1)
 https://vavoo.to/live2/play3/934337228.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",FIGHTBOX HD (1)
@@ -16071,8 +16307,6 @@ https://vavoo.to/live2/play3/3105781098.m3u8
 https://vavoo.to/live2/play3/23614419.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",POLSAT SPORT HD (BACKUP) (1)
 https://vavoo.to/live2/play3/4127619445.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Poland",POLSAT SPORT NEWS (1)
-https://vavoo.to/live2/play3/2350624386.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",POLSAT SPORT NEWS HD (1)
 https://vavoo.to/live2/play3/1366223122.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",POLSAT SPORT PREMIUM 1 (1)
@@ -16131,12 +16365,8 @@ https://vavoo.to/live2/play3/2598460129.m3u8
 https://vavoo.to/live2/play3/3533896405.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",TRAVEL CHANNEL HD (1)
 https://vavoo.to/live2/play3/2774595223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Poland",TTV HD (1)
-https://vavoo.to/live2/play3/3777664371.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",TV OKAZJE (1)
 https://vavoo.to/live2/play3/463041335.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Poland",TV PULS HD (1)
-https://vavoo.to/live2/play3/1775095558.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",TV REPUBLIKA (1)
 https://vavoo.to/live2/play3/3581908167.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",TV4 HD (1)
@@ -16571,8 +16801,6 @@ https://vavoo.to/live2/play3/1478995347.m3u8
 https://vavoo.to/live2/play3/3723098333.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",TELEKOM SPORT 1 HD (1)
 https://vavoo.to/live2/play3/4136539779.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Romania",TELEKOM SPORT 2 HD (1)
-https://vavoo.to/live2/play3/2013368672.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",TELEKOM SPORT 3 HD (1)
 https://vavoo.to/live2/play3/3031142910.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",TELEKOM SPORT 4 HD (1)
@@ -16625,8 +16853,6 @@ https://vavoo.to/live2/play3/1302672529.m3u8
 https://vavoo.to/live2/play3/101106127.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Russia",BOLLYWOOD HD (1)
 https://vavoo.to/live2/play3/2282393545.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Russia",BOOMERANG (1)
-https://vavoo.to/live2/play3/2520496704.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Russia",BRIDGE TV DELUXE (1)
 https://vavoo.to/live2/play3/3666141283.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Russia",BRIDGE TV РУССКИЙ ХИТ (1)
@@ -17031,10 +17257,6 @@ https://vavoo.to/live2/play3/1537807715.m3u8
 https://vavoo.to/live2/play3/3340892937.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",AMC HD (1)
 https://vavoo.to/live2/play3/1940642395.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spain",ANTENA 3 HD (1)
-https://vavoo.to/live2/play3/2255480833.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spain",ARAGON (1)
-https://vavoo.to/live2/play3/1532168948.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",AXN HD (1)
 https://vavoo.to/live2/play3/251250868.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",AXN WHITE HD (1)
@@ -17043,8 +17265,6 @@ https://vavoo.to/live2/play3/3062256453.m3u8
 https://vavoo.to/live2/play3/1979280950.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",BARCA TV (BACKUP) (1)
 https://vavoo.to/live2/play3/1097058594.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spain",BE MAD HD (1)
-https://vavoo.to/live2/play3/2840476606.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",BEIN SPORTS LA LIGA (1)
 https://vavoo.to/live2/play3/3939390473.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",BEIN SPORTS N (1)
@@ -17071,8 +17291,6 @@ https://vavoo.to/live2/play3/2148381699.m3u8
 https://vavoo.to/live2/play3/1735831563.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",CLAN (1)
 https://vavoo.to/live2/play3/3121791135.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spain",CLAN TVE (1)
-https://vavoo.to/live2/play3/1995483814.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",CLASSICA (1)
 https://vavoo.to/live2/play3/2838647061.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",COSMO HD (1)
@@ -17101,6 +17319,8 @@ https://vavoo.to/live2/play3/3620494453.m3u8
 https://vavoo.to/live2/play3/3474692336.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",FDF (1)
 https://vavoo.to/live2/play3/2622585831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Spain",FOX HD (1)
+https://vavoo.to/live2/play3/2656093401.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",FOX LIFE HD (1)
 https://vavoo.to/live2/play3/2765569410.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",GOL TV HD (1)
@@ -17111,8 +17331,6 @@ https://vavoo.to/live2/play3/26978931.m3u8
 https://vavoo.to/live2/play3/4205258144.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",IBERLIA TV (1)
 https://vavoo.to/live2/play3/2193702924.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spain",LA 1 HD (1)
-https://vavoo.to/live2/play3/2673626663.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",LA LIGA TV BAR HD (1)
 https://vavoo.to/live2/play3/109394788.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",LA LIGA TV HD (1)
@@ -17137,8 +17355,6 @@ https://vavoo.to/live2/play3/2981915461.m3u8
 https://vavoo.to/live2/play3/3864398596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",M.FORMULA 1 HD (1)
 https://vavoo.to/live2/play3/270716645.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spain",M.GOLF HD (1)
-https://vavoo.to/live2/play3/428774689.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",M.LIGA DE CAMPEONES HD (1)
 https://vavoo.to/live2/play3/2726712057.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",MEGA (1)
@@ -17163,8 +17379,6 @@ https://vavoo.to/live2/play3/2703480816.m3u8
 https://vavoo.to/live2/play3/2428779244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",MOVISTAR LA LIGA (BACKUP) (1)
 https://vavoo.to/live2/play3/2652614938.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spain",MOVISTAR LA LIGA 1 (1)
-https://vavoo.to/live2/play3/1969674121.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",MOVISTAR LA LIGA 2 (1)
 https://vavoo.to/live2/play3/851881305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",MOVISTAR LA LIGA 3 (1)
@@ -17183,10 +17397,6 @@ https://vavoo.to/live2/play3/3447547295.m3u8
 https://vavoo.to/live2/play3/1138873971.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",NAT GEO WILD HD (1)
 https://vavoo.to/live2/play3/2832532485.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spain",NATIONAL GEOGRAPHIC HD (1)
-https://vavoo.to/live2/play3/1462574321.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spain",NEOX (1)
-https://vavoo.to/live2/play3/1629852623.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",NICK JR (1)
 https://vavoo.to/live2/play3/787563522.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",NICKELODEON HD (1)
@@ -17199,16 +17409,10 @@ https://vavoo.to/live2/play3/1709759307.m3u8
 https://vavoo.to/live2/play3/3927192385.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",REAL MADRID TV HD (1)
 https://vavoo.to/live2/play3/2530683051.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spain",SYFY HD (1)
-https://vavoo.to/live2/play3/3126656022.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",TCM HD (1)
 https://vavoo.to/live2/play3/1868847447.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",TELE MADRID (1)
 https://vavoo.to/live2/play3/353289702.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spain",TELECINCO HD (1)
-https://vavoo.to/live2/play3/353095972.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spain",TELEDEPORTE (1)
-https://vavoo.to/live2/play3/2183991865.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",TELEDEPORTE HD (1)
 https://vavoo.to/live2/play3/531598528.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spain",TEN (1)
@@ -17235,6 +17439,8 @@ https://vavoo.to/live2/play3/296276062.m3u8
 https://vavoo.to/live2/play3/4208329945.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",24 HABER HD+ SD (1)
 https://vavoo.to/live2/play3/3828793616.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey",24 KITCHEN HD (1)
+https://vavoo.to/live2/play3/4285350247.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",24 RAW (1)
 https://vavoo.to/live2/play3/536029186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",360 RAW (1)
@@ -17267,14 +17473,14 @@ https://vavoo.to/live2/play3/3510107618.m3u8
 https://vavoo.to/live2/play3/2056768647.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: DA VINCI (1)
 https://vavoo.to/live2/play3/410345406.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: DISCOVERY CHANNEL HD (1)
+https://vavoo.to/live2/play3/4017734592.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: DISNEY JUNIOR (1)
 https://vavoo.to/live2/play3/649228722.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: DMAX HD (1)
 https://vavoo.to/live2/play3/869937351.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: DREAM T RK (1)
 https://vavoo.to/live2/play3/4266683025.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: DUCK TV HD (1)
-https://vavoo.to/live2/play3/1709129189.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: EKOL TV (1)
 https://vavoo.to/live2/play3/2706210049.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: EPIC DRAMA (1)
@@ -17283,6 +17489,8 @@ https://vavoo.to/live2/play3/678261693.m3u8
 https://vavoo.to/live2/play3/2078862937.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: EUROSPORT 2 HD (1)
 https://vavoo.to/live2/play3/4117227962.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: EXXEN TV (1)
+https://vavoo.to/live2/play3/194469526.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: FB TV (1)
 https://vavoo.to/live2/play3/3730681078.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: FLASH TV (1)
@@ -17299,6 +17507,8 @@ https://vavoo.to/live2/play3/1092667959.m3u8
 https://vavoo.to/live2/play3/1677679684.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: KRT TV (1)
 https://vavoo.to/live2/play3/3266397146.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: LKE TV HD (1)
+https://vavoo.to/live2/play3/1839766333.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: LOVE NATURE HD (1)
 https://vavoo.to/live2/play3/3578706863.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: M N KA GO (1)
@@ -17351,10 +17561,6 @@ https://vavoo.to/live2/play3/2780830033.m3u8
 https://vavoo.to/live2/play3/3971603427.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: S NEMA YERL HD (1)
 https://vavoo.to/live2/play3/1897159473.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: S SPORT (1)
-https://vavoo.to/live2/play3/2123273598.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: S SPORT 2 (1)
-https://vavoo.to/live2/play3/936908274.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: SHOW TV HD (1)
 https://vavoo.to/live2/play3/879588960.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",4K TR: SOZCU TV (1)
@@ -17411,8 +17617,6 @@ https://vavoo.to/live2/play3/1451950581.m3u8
 https://vavoo.to/live2/play3/1335130209.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",64 KARE ULKESI (1)
 https://vavoo.to/live2/play3/3842003262.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/535272601.png" group-title="Turkey",A HABER HD (1)
-https://vavoo.to/live2/play3/535272601.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",A HABER HEVC (1)
 https://vavoo.to/live2/play3/3766846723.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",A HABER RAW (1)
@@ -17421,8 +17625,6 @@ https://vavoo.to/live2/play3/2511732024.m3u8
 https://vavoo.to/live2/play3/3878908897.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",A NEWS RAW (1)
 https://vavoo.to/live2/play3/3415462105.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey",A PARA RAW (1)
-https://vavoo.to/live2/play3/4202445834.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/911836506.png" group-title="Turkey",A SPOR FHD (1)
 https://vavoo.to/live2/play3/911836506.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2556711030.png" group-title="Turkey",A SPOR HD (1)
@@ -17433,8 +17635,6 @@ https://vavoo.to/live2/play3/2880529208.m3u8
 https://vavoo.to/live2/play3/2777121053.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/867875861.png" group-title="Turkey",A2 HD (1)
 https://vavoo.to/live2/play3/867875861.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/1289576145.png" group-title="Turkey",A2 HEVC (1)
-https://vavoo.to/live2/play3/1289576145.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",A2 RAW (1)
 https://vavoo.to/live2/play3/1905749779.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1835847966.png" group-title="Turkey",A2 TV SD (1)
@@ -17511,8 +17711,6 @@ https://vavoo.to/live2/play3/1519411021.m3u8
 https://vavoo.to/live2/play3/280573123.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",BBC EARTH HD (1)
 https://vavoo.to/live2/play3/2228496856.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/1363827223.png" group-title="Turkey",BEIN 1 FEED (720P) (1)
-https://vavoo.to/live2/play3/1363827223.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3692337241.png" group-title="Turkey",BEIN 1 SD (360P) (1)
 https://vavoo.to/live2/play3/3692337241.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2919229346.png" group-title="Turkey",BEIN 1 SD (480P) (1)
@@ -17575,8 +17773,6 @@ https://vavoo.to/live2/play3/225281423.m3u8
 https://vavoo.to/live2/play3/3407936242.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2212659820.png" group-title="Turkey",BEIN SPORTS MAX 2 HD (1)
 https://vavoo.to/live2/play3/2212659820.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey",BEIN SPOTS1 SD (1)
-https://vavoo.to/live2/play3/143239535.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",BEN 10 TV (1)
 https://vavoo.to/live2/play3/3270480503.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",BEST AKSIYON (1)
@@ -17657,6 +17853,8 @@ https://vavoo.to/live2/play3/2462838705.m3u8
 https://vavoo.to/live2/play3/1822525741.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",CANIM KARDESIM TV (1)
 https://vavoo.to/live2/play3/3737037158.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey",CARTOON NETWORK HD (1)
+https://vavoo.to/live2/play3/1313600851.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",CBEEBIES HD (1)
 https://vavoo.to/live2/play3/2672851185.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",CHICKY TV (1)
@@ -17747,8 +17945,6 @@ https://vavoo.to/live2/play3/1047525168.m3u8
 https://vavoo.to/live2/play3/695705778.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",DISCOVERY ID (1)
 https://vavoo.to/live2/play3/2095404060.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey",DISCOVERY IDX HD (1)
-https://vavoo.to/live2/play3/970098662.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",DISCOVERY SCIENCE HD+ (1)
 https://vavoo.to/live2/play3/2818684271.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",DISNEY JR HD (1)
@@ -17867,12 +18063,8 @@ https://vavoo.to/live2/play3/1208369995.m3u8
 https://vavoo.to/live2/play3/3333902867.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",EXXEN TV SPOR 1 FEED (1)
 https://vavoo.to/live2/play3/1091403912.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey",EXXEN TV SPOR 1 HD (1)
-https://vavoo.to/live2/play3/1204200801.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",EXXEN TV SPOR 1 UHD (1)
 https://vavoo.to/live2/play3/3814925371.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey",EXXEN TV SPOR 2 HD (1)
-https://vavoo.to/live2/play3/3377046146.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",EXXEN TV SPOR 2 UHD (1)
 https://vavoo.to/live2/play3/3673037054.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",EXXEN TV SPOR 3 (1)
@@ -17891,8 +18083,6 @@ https://vavoo.to/live2/play3/1159078202.m3u8
 https://vavoo.to/live2/play3/3597878428.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2512340558.png" group-title="Turkey",FB TV (1)
 https://vavoo.to/live2/play3/2512340558.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey",FILBOX SPOR 1 MACZAMANI (1)
-https://vavoo.to/live2/play3/407612267.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",FILBOX SPOR 2 MACZAMANI (1)
 https://vavoo.to/live2/play3/154583314.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",FILBOX SPOR 3 MACZAMANI (1)
@@ -18075,8 +18265,6 @@ https://vavoo.to/live2/play3/4012432749.m3u8
 https://vavoo.to/live2/play3/3295096268.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",KRAL SAKIR TV (1)
 https://vavoo.to/live2/play3/3808834024.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey",KRAL TV HD (1)
-https://vavoo.to/live2/play3/2879812830.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",KRT HD+ SD (1)
 https://vavoo.to/live2/play3/1432853025.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/535260022.png" group-title="Turkey",KRT TV HD (1)
@@ -18139,6 +18327,8 @@ https://vavoo.to/live2/play3/2462143546.m3u8
 https://vavoo.to/live2/play3/3513867536.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",NICK JR HD HD (1)
 https://vavoo.to/live2/play3/707163099.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkey",NICKELODEON HD (1)
+https://vavoo.to/live2/play3/503443750.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",NILOYA HD+ (1)
 https://vavoo.to/live2/play3/692811579.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",NILOYA TV (1)
@@ -18233,8 +18423,6 @@ https://vavoo.to/live2/play3/3760487764.m3u8
 https://vavoo.to/live2/play3/2466905700.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3531762195.png" group-title="Turkey",S-SPORT 1 UHD (1)
 https://vavoo.to/live2/play3/3531762195.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/3943651030.png" group-title="Turkey",S-SPORT 2 UHD (1)
-https://vavoo.to/live2/play3/3943651030.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/919993168.png" group-title="Turkey",S-SPORT HD (1)
 https://vavoo.to/live2/play3/919993168.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",S-SPORT PLUS FHD (1)
@@ -18347,8 +18535,6 @@ https://vavoo.to/live2/play3/1489430754.m3u8
 https://vavoo.to/live2/play3/2546857708.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1375986171.png" group-title="Turkey",TABII SPOR 4 HD (1)
 https://vavoo.to/live2/play3/1375986171.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/4088175397.png" group-title="Turkey",TABII SPOR 4 UHD (1)
-https://vavoo.to/live2/play3/4088175397.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2661933413.png" group-title="Turkey",TABII SPOR 5 HD (1)
 https://vavoo.to/live2/play3/2661933413.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3839332198.png" group-title="Turkey",TABII SPOR 5 UHD (1)
@@ -18471,6 +18657,8 @@ https://vavoo.to/live2/play3/1619096863.m3u8
 https://vavoo.to/live2/play3/4095879853.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3985615117.png" group-title="Turkey",TRT WORLD HEVC (1)
 https://vavoo.to/live2/play3/3985615117.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/4076064178.png" group-title="Turkey",TRT WORLD RAW (1)
+https://vavoo.to/live2/play3/4076064178.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",TRT2 RAW (1)
 https://vavoo.to/live2/play3/21895121.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",TUNCELI DERSIM 62 TV (1)
@@ -18567,8 +18755,6 @@ https://vavoo.to/live2/play3/3636946399.m3u8
 https://vavoo.to/live2/play3/3331268047.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",AHLULBAYT TV (1)
 https://vavoo.to/live2/play3/3806225604.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom",AL JAZEERA HD (1)
-https://vavoo.to/live2/play3/1505679638.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",ANIMAL PLANET (1)
 https://vavoo.to/live2/play3/4014675700.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",ARIRANG TV HD (1)
@@ -18711,8 +18897,8 @@ https://vavoo.to/live2/play3/3707933162.m3u8
 https://vavoo.to/live2/play3/852637802.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",DESI RADIO (1)
 https://vavoo.to/live2/play3/1060350297.m3u8
-#EXTINF:-1 tvg-logo="/live2/logo/1151638913.png" group-title="United Kingdom",DISCOVERY HISTORY (1)
-https://vavoo.to/live2/play3/1151638913.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/4155381642.png" group-title="United Kingdom",DISCOVERY CHANNEL (1)
+https://vavoo.to/live2/play3/4155381642.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",DISCOVERY ID (1)
 https://vavoo.to/live2/play3/3654944975.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",DISCOVERY SCIENCE (1)
@@ -18721,6 +18907,8 @@ https://vavoo.to/live2/play3/2621642644.m3u8
 https://vavoo.to/live2/play3/1086852791.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/2100320635.png" group-title="United Kingdom",DISCOVERY TURBO (1)
 https://vavoo.to/live2/play3/2100320635.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",DISNEY CHANNEL (1)
+https://vavoo.to/live2/play3/2707576374.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",DISNEY JUNIOR (1)
 https://vavoo.to/live2/play3/4020316698.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",DISNEY XD (1)
@@ -18733,6 +18921,8 @@ https://vavoo.to/live2/play3/266277301.m3u8
 https://vavoo.to/live2/play3/3630475020.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",DUCK TV (1)
 https://vavoo.to/live2/play3/780586604.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",DUNYA NEWS (1)
+https://vavoo.to/live2/play3/3030295351.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",EDGESPORT (1)
 https://vavoo.to/live2/play3/3088351394.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",EIR SPORT 1 (1)
@@ -18873,8 +19063,6 @@ https://vavoo.to/live2/play3/1269043656.m3u8
 https://vavoo.to/live2/play3/2630500553.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",NAT GEO PEOPLE (1)
 https://vavoo.to/live2/play3/3819038124.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom",NAT GEO WILD (1)
-https://vavoo.to/live2/play3/2534557485.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",NATIONAL GEOGRAPHIC (1)
 https://vavoo.to/live2/play3/3472875805.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/1859540444.png" group-title="United Kingdom",NDTV 24X7 (1)
@@ -18897,6 +19085,8 @@ https://vavoo.to/live2/play3/2036686557.m3u8
 https://vavoo.to/live2/play3/2046052389.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",NOW 80S (1)
 https://vavoo.to/live2/play3/2411477196.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",NOW 90S (1)
+https://vavoo.to/live2/play3/701182840.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",NTD (1)
 https://vavoo.to/live2/play3/4258283046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",PARAMOUNT (1)
@@ -18997,8 +19187,6 @@ https://vavoo.to/live2/play3/2547909328.m3u8
 https://vavoo.to/live2/play3/2352556888.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY SPORT GOLF (1)
 https://vavoo.to/live2/play3/1870352128.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY SPORT MIX (1)
-https://vavoo.to/live2/play3/3140080865.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY SPORT NEWS (1)
 https://vavoo.to/live2/play3/357949903.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY SPORT PREMIER LEAGUE (1)
@@ -19035,6 +19223,8 @@ https://vavoo.to/live2/play3/2920129302.m3u8
 https://vavoo.to/live2/play3/1079620770.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY SPORTS MAIN EVENT HD (1)
 https://vavoo.to/live2/play3/1104967001.m3u8
+#EXTINF:-1 tvg-logo="/live2/logo/1694085323.png" group-title="United Kingdom",SKY SPORTS MIX (1)
+https://vavoo.to/live2/play3/1694085323.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",SKY SPORTS MIX HD (1)
 https://vavoo.to/live2/play3/3026248510.m3u8
 #EXTINF:-1 tvg-logo="/live2/logo/3459381373.png" group-title="United Kingdom",SKY SPORTS NEWS (1)
@@ -19079,6 +19269,8 @@ https://vavoo.to/live2/play3/2650971678.m3u8
 https://vavoo.to/live2/play3/1464425109.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",TINY POP (1)
 https://vavoo.to/live2/play3/1991915821.m3u8
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom",TINY POP+1 (1)
+https://vavoo.to/live2/play3/1414100609.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",TJC (1)
 https://vavoo.to/live2/play3/3045212765.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",TRACE HITS (1)
